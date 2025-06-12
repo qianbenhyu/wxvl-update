@@ -15098,5 +15098,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=1&sn=34d30246787005440f76867606c6259c": "Microsoft 365 Copilot 中存在零点击AI数据泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492830&idx=1&sn=0a00dece01aa71e8b1e9e3b5066837c7": "【已复现】GeoServer SSRF和XXE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA5NzQxMTczNA==&mid=2649167173&idx=1&sn=f7421efcbc4b873263935a4954985500": "揭秘最为知名的黑客工具之一：Legion （一款功能强大的自动化网络侦察与漏洞扫描工具）",
-    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496635&idx=1&sn=7389470e1ca637f9aa26ebaabe362b5e": "漏洞管理玩法已变，四大常见错误亟待摒弃"
+    "https://mp.weixin.qq.com/s?__biz=MzU5Njc4NjM3NA==&mid=2247496635&idx=1&sn=7389470e1ca637f9aa26ebaabe362b5e": "漏洞管理玩法已变，四大常见错误亟待摒弃",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523270&idx=2&sn=cd319434730e299df36bd4ba219387e2": "Apache CloudStack 严重漏洞可用于执行权限操作",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651322946&idx=3&sn=289b6e0241356a1bdbb26f4d679825ac": "微软Outlook路径遍历漏洞允许攻击者远程执行任意代码",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595569&idx=3&sn=cd7353a8ac4c73d7b9281ece95ec84bd": "Salesforce 行业云曝20+漏洞，含零日漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NTMxMjQ4OA==&mid=2247486106&idx=1&sn=1bea9729146539683a59af9a3d9470e8": "EchoLeak-首个导致 M365 Copilot 数据泄露的零点击 AI 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463175&idx=1&sn=e76aec19728e7bf74ec7c039ed40a84b": "CNNVD关于微软多个安全漏洞的通报"
 }
