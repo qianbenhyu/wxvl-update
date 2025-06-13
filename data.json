@@ -15133,5 +15133,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530803&idx=1&sn=367fc89047b40e7893a2fd8293f50d34": "CVE-2025-27817 Apache Kafka 客户端：任意文件读取和 SSRF 漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491568&idx=1&sn=35c5311b89a99e2d66e3d557819a5047": "清源SCA社区版每日漏洞情报、新增CVE及投毒情报推送",
     "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486704&idx=1&sn=1e59b5cc0f1b3b36a82ca5bb0b3457b6": "【漏洞预警】Windows WebDAV 客户端远程代码执行漏洞(CVE-2025-33053)",
-    "https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487885&idx=1&sn=31d1884087f8e107c916d1b9f330fc43": "XG_JLGJ靶场的几个POC"
+    "https://mp.weixin.qq.com/s?__biz=MzIwOTMzMzY0Ng==&mid=2247487885&idx=1&sn=31d1884087f8e107c916d1b9f330fc43": "XG_JLGJ靶场的几个POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247536253&idx=2&sn=afa344b3b17adafcbcd8949ea4943124": "聊热点｜国家安全部：“刷脸”时代，安全不容小觑；APT组织利用Windows WebDAV零日漏洞实施远程恶意软件攻击……",
+    "https://mp.weixin.qq.com/s?__biz=MzUzMDUxNTE1Mw==&mid=2247512480&idx=1&sn=dcf723277dd1aec37f2aa37635844c78": "企业级VPN NetExtender任意文件删除到权限提升漏洞剖析",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788688&idx=1&sn=62fe0c0fe52ec9535f10655b9c217d47": "微软Copilot曝首个零交互AI漏洞：一封普通邮件静默泄露企业敏感数据",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652252014&idx=1&sn=902715f1ed8dd1c00b55490526da55ad": "SinoTrack GPS设备存在严重安全漏洞，可被远程控制车辆",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582873&idx=1&sn=0b714276ab832a9ba16514a3d8bceb01": "新型Mirai僵尸网络通过命令注入漏洞感染TBK DVR设备"
 }
