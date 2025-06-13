@@ -1,14 +1,7 @@
 #  CNNVD关于微软多个安全漏洞的通报  
-CNNVD  CNNVD安全动态   2025-06-12 11:54  
+ 金盾信安   2025-06-13 09:59  
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JjlMnGl5z2XiaAQGZdFulYs0vsE3icB8RUiawPqDSb5lvm8G0drb7iaw7sQ/640?wx_fmt=gif&from=appmsg "")  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1Js3VkKswpUtkoDWibZ1YQl1lIdcctfqePCcSPEdc38SnhJGdqGJUFx9w/640?wx_fmt=gif&from=appmsg "")  
-  
-**点击蓝字 关注我们**  
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1Js3VkKswpUtkoDWibZ1YQl1lIdcctfqePCcSPEdc38SnhJGdqGJUFx9w/640?wx_fmt=gif&from=appmsg "")  
-  
+****  
   
 **漏洞情况**  
   
@@ -47,5 +40,10 @@ https://msrc.microsoft.com/update-guide/en-us
 CNNVD将继续跟踪上述漏洞的相关情况，及时发布相关信息。如有需要，可与CNNVD联系。联系方式: cnnvd@itsec.gov.cn  
   
 ![图片](https://mmbiz.qpic.cn/mmbiz_gif/g1thw9GoocfpeKv1eicF4icEx1vUX4LQ1JMd8aMOqNkic25xydKvYcCVEsHXvm506icfXiaFep4AfohjraUj3F2jMfg/640?wx_fmt=gif&from=appmsg "")  
+  
+  
+来源：“CNNVD安全动态”微信公众号  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/73LRor7IX0AO3u9ZlT0SNwOmVQ0M8JV7kOFEeyl89Lt31YVQCkJauFJWezujcgv6vIRCMA0B27oTxDjNAlDmSg/640?wx_fmt=png&from=appmsg "")  
   
   
