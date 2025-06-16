@@ -15232,5 +15232,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491829&idx=1&sn=f0e1ec63d977fad0aead47ea777d0182": "金华迪加 现场大屏互动系统 redpacket.php SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491818&idx=1&sn=9a8013bf5005169540c9bc08f03ec77a": "神州数码 DCME-320出口网关 black_list.php 任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488112&idx=1&sn=eeb7a6c45256d2804fb041de9ddcdc33": "无需点击就中招！间谍软件利用iMessage漏洞监视记者，苹果紧急修复",
-    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582888&idx=1&sn=02b823aa4fbe49aa681dfd78302faedf": "新型Secure Boot漏洞允许攻击者安装引导工具包恶意软件"
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582888&idx=1&sn=02b823aa4fbe49aa681dfd78302faedf": "新型Secure Boot漏洞允许攻击者安装引导工具包恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487164&idx=1&sn=70ef1766e7b61541d1cecdce8ff717f1": "重生之网安小FW，攻防不想挖洞怎么躺平捡漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTc0NDY2Nw==&mid=2247485188&idx=1&sn=48ce12178a70e5b8f3ea47e79dd57e64": "PE代码执行虚拟机详解&原理&源码",
+    "https://mp.weixin.qq.com/s?__biz=MzAxNzkyOTgxMw==&mid=2247494380&idx=1&sn=66151c9843ee0ce1f076c7129e9fa929": "域大杀器 CVE-2025-33073 NTLM反射",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491571&idx=1&sn=24f12d441710a620c5747ca61caa2366": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-20250615",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDQ5MTQ2Mg==&mid=2247484008&idx=1&sn=2ace6d9b83200f6f09158527c68469e0": "若依4.8.0RCE分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582888&idx=2&sn=29d6e96277b041d88e3d273ca73f3b6c": "安全动态回顾|FIN6黑客冒充求职者通过后门进入招聘人员的设备中 微软365 Copilot中发现零点击AI数据泄露漏洞"
 }
