@@ -15268,5 +15268,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=1&sn=0283b5ba91d5d3a06e6aae4bc462be4c": "【已复现】Windows SMB 权限提升漏洞(CVE-2025-33073)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488619&idx=1&sn=b4140b435210a6e9a18601d49439fcb4": "Apache Kafka Connect接口存在任意文件读取漏洞与SSRF漏洞CVE-2025-27817 附POC",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493005&idx=1&sn=d8de30626c12b1ff885b2089b6a483b2": "Output Messenger 漏洞被利用作为间谍攻击的零日漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516823&idx=1&sn=d8671ca4475900732cf71c35861bbfab": "Nuclei POC 漏洞验证可视化工具 -- Wavely（6月12日更新）"
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516823&idx=1&sn=d8671ca4475900732cf71c35861bbfab": "Nuclei POC 漏洞验证可视化工具 -- Wavely（6月12日更新）",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485324&idx=1&sn=9459be4ffec2530bb9f7315d72100e03": "一款渗透场景下的内网漏洞自动化扫描工具"
 }
