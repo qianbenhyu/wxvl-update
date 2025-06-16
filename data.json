@@ -15230,5 +15230,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489370&idx=2&sn=e72a596686a77a4e82c1c93b154d2e71": "任意文件读取&下载漏洞的全面解析及利用",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521056&idx=1&sn=86e2d6cee295b2829b46911cd1fb5eba": "php代码审计篇 - Dedecms 后台任意代码执行分析",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491829&idx=1&sn=f0e1ec63d977fad0aead47ea777d0182": "金华迪加 现场大屏互动系统 redpacket.php SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491818&idx=1&sn=9a8013bf5005169540c9bc08f03ec77a": "神州数码 DCME-320出口网关 black_list.php 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491818&idx=1&sn=9a8013bf5005169540c9bc08f03ec77a": "神州数码 DCME-320出口网关 black_list.php 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488112&idx=1&sn=eeb7a6c45256d2804fb041de9ddcdc33": "无需点击就中招！间谍软件利用iMessage漏洞监视记者，苹果紧急修复",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247582888&idx=1&sn=02b823aa4fbe49aa681dfd78302faedf": "新型Secure Boot漏洞允许攻击者安装引导工具包恶意软件"
 }
