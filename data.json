@@ -15251,5 +15251,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496056&idx=1&sn=4c39712ac7b32a3338d54e3b32153964": "CNVD漏洞周报2025年第22期",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494017&idx=1&sn=ea78ad595284d9e8c3e40713581f87f9": "【原创情报】BlackBerry官方致谢！BlackBerry QNX SDP 越界写漏洞(CVE-2025-2474)",
     "https://mp.weixin.qq.com/s?__biz=MzkxMzMyNzMyMA==&mid=2247573270&idx=1&sn=604d3b689ad54f42bc3af950d655e5fb": "若依(RuoYi)框架漏洞战争手册",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535205&idx=1&sn=79c060ff2a09da91f05ed22d90bb8400": "【漏洞预警】：高危警报！微软公司通报多个安全漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535205&idx=1&sn=79c060ff2a09da91f05ed22d90bb8400": "【漏洞预警】：高危警报！微软公司通报多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503502&idx=2&sn=ffe84150213eff7c9c03e074b80d7c59": "安全热点周报：黑客利用 Windows WebDav 零日漏洞来投放恶意软件",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MzY1NjU3Ng==&mid=2247485933&idx=1&sn=881ac470d0f0990bb7dce2c7e0ecb769": "企业内部安全漏洞修复流程的建立与思考（其四）",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523297&idx=2&sn=ea60b085762fef54a56dea85a3150a40": "超4.6万个 Grafana 实例易受账户接管漏洞影响",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNDcwMTAwNw==&mid=2247535205&idx=3&sn=638f34099ca5d39a3fe9321aa0629c4e": "数据裸奔遭境外窃取！北京网信办顶格处罚两家“漏洞企业”",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MzU0NTk3OA==&mid=2247506602&idx=2&sn=702e08bb812e6fb8a02984fc4116548b": "每周网安资讯 （6.10-6.16）| Adobe Experience_manager存在跨站脚本漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070197&idx=1&sn=2ea19a473759ade49d28c33654512b51": "【安全圈】Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488033&idx=2&sn=e559d9f9268e653c143ee78bcc61baef": "漏洞预警 | DataEase JWT认证绕过漏洞（CVE-2025-49001）"
 }
