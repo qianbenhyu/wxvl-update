@@ -15331,5 +15331,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484455&idx=1&sn=8bf8fbd3974c9a431d5598daf4fca49d": "域内大杀器 CVE-2025-33073 漏洞分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488048&idx=1&sn=c22d6a5bbf0f8be3bc37e5f2f52c71ef": "基于OSI模型来挖洞的思想转变来找到那些被忽略的漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507803&idx=1&sn=86dc1cb7aa276652b00ba6cfc10b35ff": "漏洞通告 | 泛微E-cology9 远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507803&idx=1&sn=86dc1cb7aa276652b00ba6cfc10b35ff": "漏洞通告 | 泛微E-cology9 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzMyNjcwNQ==&mid=2247488450&idx=1&sn=34b5434a55a02c05bb35ebef8f08aa3c": "CVE-2025-33073！Microsoft SMB 客户端特权提升漏洞 漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499832&idx=6&sn=369107d65d8d91b7d758baecb6c1c41a": "Apple：多个操作系统中的安全漏洞正遭受攻击"
 }
