@@ -15327,5 +15327,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499890&idx=1&sn=03ae7202852a3f6cd511140924332eac": ".NET 介绍一种新型 RCE 利用点分析与漏洞挖掘思路",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463187&idx=1&sn=b6fce76866b61fca2a9d4d739e5dadc3": "信息安全漏洞周报（2025年第24期）",
     "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494039&idx=1&sn=d9948d421667300e7aeab6bf61748a1b": "攻击者利用Zyxel远程代码执行漏洞CVE-2023-28771发起攻击",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTYxMjk0Mw==&mid=2247490784&idx=1&sn=03b9839ecd75272e21510ef54162c9c9": "众测攻防技术深度剖析：突破WAF、框架漏洞利用与新型攻击面",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487229&idx=1&sn=0ce71172eb185b6cb55ce2ff4dcbb9f0": "用友NC importTemplate方法XXE漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484455&idx=1&sn=8bf8fbd3974c9a431d5598daf4fca49d": "域内大杀器 CVE-2025-33073 漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488048&idx=1&sn=c22d6a5bbf0f8be3bc37e5f2f52c71ef": "基于OSI模型来挖洞的思想转变来找到那些被忽略的漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507803&idx=1&sn=86dc1cb7aa276652b00ba6cfc10b35ff": "漏洞通告 | 泛微E-cology9 远程代码执行漏洞"
 }
