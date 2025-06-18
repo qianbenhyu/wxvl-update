@@ -15343,5 +15343,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523322&idx=1&sn=33329d3ec49e0f180be0dcedb8cd70a4": "谷歌 Gerrit 代码平台漏洞可用于供应链攻击，18个谷歌项目受影响",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483899&idx=1&sn=bfa971e99ccf2de2cca3003ba7451dbc": "车联网安全进阶之GB∕T 45496漏洞风险等级计算器发布",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=1&sn=fccb308af75d0ed4e6fda2f6f3ffb43d": "Chrome 漏洞让攻击者能够执行任意代码 – 立即更新！",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=3&sn=aa81460de131a6a4c34d00340246d498": "XDSpy组织利用Windows LNK零日漏洞窃取敏感信息"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=3&sn=aa81460de131a6a4c34d00340246d498": "XDSpy组织利用Windows LNK零日漏洞窃取敏感信息",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487483&idx=1&sn=3f27f6c0814b247a8d5872fbd336bbb6": "100 个 Web 应用漏洞类型挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490423&idx=1&sn=36a82489f3056c2530dd2906ac91c352": "【已复现】泛微E-cology9存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494039&idx=1&sn=9761f150a71b2c5fb70b38b9a089006c": "【已复现】泛微 E-cology9 SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503510&idx=1&sn=709598245f5b6c9c5d897727f106c25b": "【已复现】泛微E-cology9 SQL注入漏洞(QVD-2025-23834)安全风险通告"
 }
