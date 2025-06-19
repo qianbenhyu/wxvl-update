@@ -15377,5 +15377,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489255&idx=1&sn=6aeab11cfe4dc3b1215c81d03177d2af": "美国CISA将苹果与TP-Link产品高危漏洞列入已知利用清单",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492350&idx=1&sn=5586252e5859dfb692618f047c00faa2": "攻防下帮助学员快速审计NET前台rce漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=2&sn=80bc42dcca795e773ef2680f5648afa7": "Flodrix僵尸网络正攻击存在漏洞的Langflow服务器"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=2&sn=80bc42dcca795e773ef2680f5648afa7": "Flodrix僵尸网络正攻击存在漏洞的Langflow服务器",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494051&idx=1&sn=824b2b262ccd14013ff47b1150ee5f2e": "Veeam修复了Backup & Replication产品中的一个新关键漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499903&idx=1&sn=bd4cd23c26aac01c8dcc6ce1bab5ba63": "双漏洞链一击拿下 Root：CVE-2025-6018∕CVE-2025-6019 横扫主流 Linux",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488131&idx=1&sn=47a1bd3f6af2b827fd64537d32891151": "Linux核心转存漏洞：CVE-2025-5054（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486229&idx=1&sn=3a1d73583e193008a7a7c66f522d0567": "工具集：Wavely V3.0【Nuclei POC 漏洞验证可视化工具】--6.19更新"
 }
