@@ -15455,5 +15455,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523347&idx=1&sn=4789a7999ec060d43881b5c1f1b8e576": "思科 AnyConnect VPN 服务器漏洞可用于触发 DoS 条件",
     "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517234&idx=1&sn=e76c9eba1efc0258f11058f61e600445": "漏洞预警｜契约锁电子签章系统远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=3&sn=24cefa58e29f9132413362fcfc5c2177": "IBM QRadar SIEM 漏洞允许攻击者执行任意命令",
-    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "信息安全漏洞周报【第027期】"
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "信息安全漏洞周报【第027期】",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503518&idx=1&sn=09e0cab29a0bf5cf22e300e719f2aab2": "【已复现】Linux 本地提权漏洞利用链(CVE-2025-6018、CVE-2025-6019)安全风险通告"
 }
