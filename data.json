@@ -15446,5 +15446,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484461&idx=1&sn=d12f4d1f914768b6f6aeb695eca84490": "小团队漏洞管理平台",
     "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg3OTU4OQ==&mid=2247493212&idx=1&sn=26b628127785f2cd24f839e5d6fdd527": "JS 动态解析漏洞挖掘巧技 | 正则表达式「捕获」的未授权漏洞之门",
     "https://mp.weixin.qq.com/s?__biz=MzAxNDkzNjQ0Mw==&mid=2247483963&idx=1&sn=d4147631169c4f3f4d59a9a061d95188": "SVG 嵌套钓鱼溯源分析：基于可信域名 XSS 漏洞的黑产分发链追踪",
-    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491147&idx=1&sn=96cbaf8867e8cb3d1a5dd586995a4966": "能信安：漏洞通告"
+    "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491147&idx=1&sn=96cbaf8867e8cb3d1a5dd586995a4966": "能信安：漏洞通告",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487488&idx=1&sn=a07090fe47afa7fa1c9bb2f968aadd2a": "CVE-2024-55591 Fortinet FortiOS 身份验证绕过",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528323&idx=1&sn=4c2813169468c082a4f51eb8eb6f1c54": "用 IRify 定位某 Admin 目录遍历及反序列化漏洞文件上传"
 }
