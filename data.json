@@ -15449,5 +15449,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzI1MTYzMjY1OQ==&mid=2247491147&idx=1&sn=96cbaf8867e8cb3d1a5dd586995a4966": "能信安：漏洞通告",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=4&sn=9d9e9b842c97da2e355156fcff3f36eb": "Apache SeaTunnel 漏洞允许未经授权的用户进行反序列化攻击",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487488&idx=1&sn=a07090fe47afa7fa1c9bb2f968aadd2a": "CVE-2024-55591 Fortinet FortiOS 身份验证绕过",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528323&idx=1&sn=4c2813169468c082a4f51eb8eb6f1c54": "用 IRify 定位某 Admin 目录遍历及反序列化漏洞文件上传"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTM4NzIxMQ==&mid=2247528323&idx=1&sn=4c2813169468c082a4f51eb8eb6f1c54": "用 IRify 定位某 Admin 目录遍历及反序列化漏洞文件上传",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523347&idx=2&sn=b6f02b127ba49b7fa05eec183cb4108a": "Sitcore XP中的硬编码密码 “b” 导致企业系统易受RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596037&idx=4&sn=fb4c9bd8a84e95a40a020f981c5e7885": "《CTF训练营-Web篇》更新：反序列化漏洞（四）Laravel反序列化链分析",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523347&idx=1&sn=4789a7999ec060d43881b5c1f1b8e576": "思科 AnyConnect VPN 服务器漏洞可用于触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517234&idx=1&sn=e76c9eba1efc0258f11058f61e600445": "漏洞预警｜契约锁电子签章系统远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524876&idx=3&sn=24cefa58e29f9132413362fcfc5c2177": "IBM QRadar SIEM 漏洞允许攻击者执行任意命令",
+    "https://mp.weixin.qq.com/s?__biz=MzA4MDk4NTIwMg==&mid=2454064207&idx=1&sn=fa2366eac8519eb7a23aefb690c81d82": "信息安全漏洞周报【第027期】"
 }
