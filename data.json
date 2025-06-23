@@ -15503,5 +15503,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=1&sn=cecbfaeeb6c4bdf692ee8c983321b6c9": "漏洞预警 | 泛微e-cology9 SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzMwODg2Mw==&mid=2247512888&idx=1&sn=070ad5128c82043ed0e7ff0ead954060": "SRC | 一次从0到1的逻辑漏洞挖掘之旅",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=2&sn=9ae4f5cba0b14ebc31b98aebdf846040": "漏洞预警 | 汉王e脸通智慧园区管理平台任意文件读取和任意文件上传漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487498&idx=1&sn=6909e947d5d01d4f63c065b565f63d70": "CVE-2025-24813 Apache Tomcat RCE"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487498&idx=1&sn=6909e947d5d01d4f63c065b565f63d70": "CVE-2025-24813 Apache Tomcat RCE",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzIxMDYxMw==&mid=2247504723&idx=1&sn=c50a22432595f3381a3d022f5f0a8136": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492040&idx=1&sn=7f72175ba35b8530f51964e1090b84c9": "渗透测试｜某单位从敏感三要素泄露到接管管理员的漏洞挖掘之旅",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493465&idx=3&sn=dfdc54e9f0b7b572c6489842ee4ed79c": "漏洞预警 | 宏景eHR SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzUxMjU5OQ==&mid=2247485445&idx=1&sn=740e9d7bfd4478e164e11b9f3ded08c2": "分析某oa历史漏洞中捡到CNVD证书",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTEzODc3MQ==&mid=2247487193&idx=1&sn=c8a311487502fac2a3ce23003a19ecb1": "BAZZAFL：通过面向漏洞的种子分组将模糊测试活动导向漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQyOTk3Mg==&mid=2247485333&idx=1&sn=40853a58fa3f469387da554b208318a7": "轻量便捷的Nuclei POC漏洞验证可视化管理工具",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491618&idx=1&sn=695f849907e60da17dc2e08e2f6e54e4": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月20~22日"
 }
