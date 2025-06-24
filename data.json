@@ -15538,5 +15538,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490284&idx=1&sn=397ddf62437511be1e9a9bb1e49c0d6e": "【高危漏洞预警】Veeam Backup & Replication 远程代码执行漏洞 (CVE-2025-23121)",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492621&idx=1&sn=480d4244338efa136786fb91bf7d0dad": "2025最新AWVS∕Acunetix V25.4高级版更新( AI∕ML预测功能)漏洞扫描器Windows下载",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MjU2MjY4Mw==&mid=2247485036&idx=1&sn=ee3a749d2edcc53ccbb3bdbbfbb4733f": "hackerone之看着大佬的漏洞流口水",
-    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503434&idx=1&sn=536a6976c1a3e6ceaedfee30301894c3": "【成功复现】GeoServer XXE漏洞 (CVE-2025-30220)"
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503434&idx=1&sn=536a6976c1a3e6ceaedfee30301894c3": "【成功复现】GeoServer XXE漏洞 (CVE-2025-30220)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTU4NTc2Nw==&mid=2247497672&idx=1&sn=aa31b65773592f3618573abad3603b67": "F5 BIG-IP RCE：重温解析差异导致的身份认证绕过",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900800&idx=1&sn=5206926e487bdb80079965ea12d1e150": "AI开发框架成黑客新“肉鸡”：Langflow高危漏洞被利用组建DDoS僵尸网络",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5OTg5OTI1NQ==&mid=2247491161&idx=1&sn=040f03ce7d9ec307c99dfa855516ec64": "2025年攻防演练必修高危漏洞合集",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=1&sn=9c590617818f23d89234775a6c23dac4": "漏洞预警 | Veeam Backup & Replication远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247497866&idx=3&sn=d363efd42c49377e2637a4d4a0ddee08": "涉数据安全漏洞与隐私风险 中国医疗设备厂商在美国遭遇诉讼",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=4&sn=3fb024a33be11f2119bc8047de77f846": "逾10万个WordPress网站因MCP漏洞面临权限提升攻击风险",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491620&idx=1&sn=8917170e1628186b772f4eff20c61b8c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月23日",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=3&sn=4b001afef13dfb610260d65092c7a22e": "漏洞预警 | 宏景eHR SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484700&idx=1&sn=3975752bd19d84f8561d610262fd94e2": "【技术分享】MQTT未授权访问漏洞利用方式"
 }
