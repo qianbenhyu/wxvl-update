@@ -15547,5 +15547,11 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323631&idx=4&sn=3fb024a33be11f2119bc8047de77f846": "逾10万个WordPress网站因MCP漏洞面临权限提升攻击风险",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491620&idx=1&sn=8917170e1628186b772f4eff20c61b8c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月23日",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=3&sn=4b001afef13dfb610260d65092c7a22e": "漏洞预警 | 宏景eHR SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484700&idx=1&sn=3975752bd19d84f8561d610262fd94e2": "【技术分享】MQTT未授权访问漏洞利用方式"
+    "https://mp.weixin.qq.com/s?__biz=MzkxMTY1MTIzOA==&mid=2247484700&idx=1&sn=3975752bd19d84f8561d610262fd94e2": "【技术分享】MQTT未授权访问漏洞利用方式",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDQ0NzQwNA==&mid=2247486827&idx=1&sn=a25724a950ba87c0352ab769c3f88bb2": "CVE-2021-41773 漏洞复现：从失败到成功的探索",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493483&idx=2&sn=7928bf75a665a3f3f2320e3eae44f879": "漏洞预警 | JimuReport信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA3NjU5MTIxMg==&mid=2650575572&idx=1&sn=b474aa1f66643dded82ef017e74f10cc": "上线前还在修漏洞？告别救火模式，试试边开发边找漏洞的国舜方案！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2MDc2MDA4OA==&mid=2247515203&idx=1&sn=aa65a6a18fdb558e811f8b9c1010a23c": "台海热点诱饵！旺刺组织结合 0day 和 ClickOnce 技术开展间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491914&idx=1&sn=35337886d7201b34709bbf6689a8a30c": "安科瑞环保用电监管云平台 UpLoadPic 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611158&idx=3&sn=ded70f18ec0a6f9ca8caba82488f97e3": "SRC | 一次从0到1的逻辑漏洞挖掘之旅"
 }
