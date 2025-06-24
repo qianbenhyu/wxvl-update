@@ -15574,5 +15574,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NDEzMDgzNw==&mid=2247485180&idx=1&sn=67de912aaaff345f53ddce1ec5491e9f": "CVE-2025-33053 网络快捷方式文件远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDU4OTQ1NA==&mid=2247484735&idx=1&sn=af7af64dc94f3a3e03211889d55b5fb6": "内网横行：CVE-2025-33073 实战场景利用全流程指南 | 附利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490297&idx=3&sn=39b54018862cbe1a46157a367bcf2354": "【AI高危漏洞预警】langchain-ai信息泄露漏洞(CVE-2025-2828)",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=2&sn=53f5863b82d57df201da83c7c6919937": "WinRAR 存在目录遍历远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500027&idx=2&sn=53f5863b82d57df201da83c7c6919937": "WinRAR 存在目录遍历远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyOTQ0MjE1NQ==&mid=2247500804&idx=1&sn=90ea09bbfd5425c07de64038416c6ec8": "【紧急补丁】Veeam 12.3.2 发布，修复 CVE‑2025‑23121（9.9分 RCE）及两项高危权限滥用漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596239&idx=3&sn=d782404acf8421ef63b6789bd3a99a90": "WinRAR现高危漏洞，恶意文件可致远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501221&idx=2&sn=4a833bc0c5b81084001551c46f420b29": "【漏洞通告】Notepad++ v8.8.1安装程序特权提升漏洞 (CVE-2025-49144)"
 }
