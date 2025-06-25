@@ -15604,5 +15604,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491923&idx=1&sn=0a5aad1317aad151a2b751e12641e71e": "GeoServer XXE漏洞 (CVE-2025-30220)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2OTU3MzI1OQ==&mid=2247486218&idx=1&sn=aba341fb0b861e5a70d31fb9ebcd8587": "【前沿研究】降维打击！DeepSeek AI 智能体\"碾压\"传统工具，MCP漏洞扫描效率狂飙1000%！",
     "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487364&idx=1&sn=744d24f074c71851c7a36876bc42c3bc": "OA系统漏洞审计之用友NC反序列化 UserQueryServiceServlet",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507815&idx=1&sn=d7d2e2bc59c6884536c20a26dfcbe559": "漏洞通告 | Gogs远程命令注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507815&idx=1&sn=d7d2e2bc59c6884536c20a26dfcbe559": "漏洞通告 | Gogs远程命令注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491624&idx=1&sn=564f5b5681cb0c0d3cab6b8c020e9467": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月24日",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248146&idx=1&sn=5ef4c9942a320bc7e46b5d456b4ec346": "Notepad++ 存在严重权限提升漏洞，PoC已发布 | 史上最大规模DDoS攻击在短短45秒内传输了37.4TB的恶意流量",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484473&idx=1&sn=72dbb861fc8336a1ec596800f5ed6f51": "靶场攻防|SSRF漏洞打穿内网（1）"
 }
