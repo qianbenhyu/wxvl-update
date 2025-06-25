@@ -15580,5 +15580,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3NzY3MzYzMw==&mid=2247500151&idx=1&sn=40e8f6ac31864ee418b3989c986172d5": "威胁情报：Notepad++ 本地提权漏洞 | POC已公开",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501221&idx=2&sn=4a833bc0c5b81084001551c46f420b29": "【漏洞通告】Notepad++ v8.8.1安装程序特权提升漏洞 (CVE-2025-49144)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484380&idx=1&sn=b7fa367d77e1483cb8a5a87d1478e578": "【漏洞复现】一次不一样的逻辑绕过",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484831&idx=1&sn=7375e6ef426b4fd5a0821baee05fcf67": "【CVE‑2025‑49144】Notepad++提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484831&idx=1&sn=7375e6ef426b4fd5a0821baee05fcf67": "【CVE‑2025‑49144】Notepad++提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MjEyMTcyMQ==&mid=2651037762&idx=1&sn=e180a260fc140e02cebd898bf1b1fead": "Android系统内核漏洞利用技术入门",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323665&idx=1&sn=15875d40f858538184006215073544fb": "Notepad++ 存在严重权限提升漏洞，PoC已发布",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323665&idx=4&sn=5cb47657df2c570bb3840e433f112670": "XDigo恶意软件利用Windows LNK漏洞攻击东欧政府机构"
 }
