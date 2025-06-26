@@ -15635,5 +15635,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzUxNTQxMzUxMw==&mid=2247525817&idx=1&sn=2acd639eb41660568b52be7345601c65": "安全通告丨网络安全漏洞通告（2025年6月）",
     "https://mp.weixin.qq.com/s?__biz=MzI0MTUwMjQ5Nw==&mid=2247489256&idx=1&sn=503b05e22ac55c8acc087c2ad80efcba": "利用 WebView 漏洞：绕过 SOP 访问内部应用程序文件",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493041&idx=1&sn=518361ee24bc2da2bdc44f947e1046a8": "在全球间谍活动中，政府网络邮件遭 XSS 漏洞攻击",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483910&idx=1&sn=213863db5a9b86c813db99bade0660e1": "Java代码审计第七章-任意文件上传漏洞（上）"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Njk1NDg5NQ==&mid=2247483910&idx=1&sn=213863db5a9b86c813db99bade0660e1": "Java代码审计第七章-任意文件上传漏洞（上）",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NzY5MjAwNQ==&mid=2247486915&idx=1&sn=a2fcd625edc0bfec635fa313d4ad1bff": "200小时狂赚$20,300：我的漏洞赏金黑客挑战实录",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491645&idx=1&sn=6961f6e6b2bf79b4616ac3459e85f91c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月25日",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908401&idx=1&sn=e5f24f835066c260946809fee62a5325": "[AI-VA-20250626-001] - Gogs符号链接处理不当导致远程命令执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "漏洞预警 | 泛微E-Cology SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞"
 }
