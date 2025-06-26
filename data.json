@@ -15640,5 +15640,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491645&idx=1&sn=6961f6e6b2bf79b4616ac3459e85f91c": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年06月25日",
     "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908401&idx=1&sn=e5f24f835066c260946809fee62a5325": "[AI-VA-20250626-001] - Gogs符号链接处理不当导致远程命令执行",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=3&sn=e9ebcf261289a95fb9471fcac2883806": "漏洞预警 | 泛微E-Cology SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=1&sn=1ccc756f815c32f18e26fef511666ec0": "漏洞预警 | Linux本地提权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NzkxOTQ0OA==&mid=2247484573&idx=1&sn=aceeff40c7236693b32fabb68ee8ab3b": "XDigo 恶意软件利用 Windows LNK 漏洞对东欧政府发动攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=2&sn=c4b3f53fda7cbd38f267401a4b6af0eb": "新漏洞使数百万台 Brother 打印机面临黑客攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500129&idx=2&sn=690cd25311a206b712e9f82b871929b6": "0day漏洞攻防竞赛：东大与美国的隐秘战争",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511358&idx=1&sn=668ea03605884eaaecd7c4d02890cc31": "Brother、富士等多型打印机曝严重漏洞，核心问题无法通过固件修复",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488427&idx=1&sn=9fc8ecfaa6360e9fbcf4ea5c4618a39d": "“你刷的小红书，其实在裸奔？”——黑客揭秘App开发者模式背后的漏洞发现与利用",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795544&idx=3&sn=bc7325dfc92703b843ccfc4f662399b4": "CISA 警告：老旧TP-Link 路由器存在严重漏洞可导致黑客攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MjkxNzY1NQ==&mid=2247486028&idx=3&sn=d961f6c041977816b00f5c5e7415af1a": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493513&idx=2&sn=f6b4bc85401b58e71cdb7aa704901f29": "漏洞预警 | 云课网校系统任意文件上传漏洞"
 }
