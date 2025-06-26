@@ -15657,5 +15657,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMzYyNzQ1NA==&mid=2247485618&idx=1&sn=0c172c8218bd712fd7319c25ea282f8a": "速速更新！WinRAR 又又又出漏洞了！",
     "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583318&idx=2&sn=0ba427effcd76b16d408c7d3116a319a": "Sitecore内容管理系统漏洞链始于在设置硬编码密码时的疏漏",
     "https://mp.weixin.qq.com/s?__biz=MzkwMzQyMTg5OA==&mid=2247487980&idx=1&sn=458c8c0a91f96b54bfd02c02a7623273": "Java 安全 | JBossInterceptors1 & JavassistWeld1 链",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503527&idx=1&sn=3aa5f32ac9d5200982fe5a13434d7eb8": "【已复现】Gogs 远程命令注入漏洞(CVE-2024-56731)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NjU0OTQyMg==&mid=2247484434&idx=1&sn=fdcc1421f4fe465e4fa8104b5e7ccb6f": "【漏洞预警】Gogs远程命令执行漏洞风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMDQyMTIzMA==&mid=2247484900&idx=1&sn=987e33d854d2403c3a6e423aa4282b73": "【复现】Gogs 远程命令注入漏洞风险通告"
 }
