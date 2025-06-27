@@ -15674,5 +15674,14 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096350&idx=2&sn=ad5be77318cdcb22396bebc1fefd8a71": "NVIDIA Megatron LM 让攻击者注入恶意代码漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531375&idx=1&sn=15a705cf292ef9d6f2122c57749947de": "UAT-6382 利用 Cityworks 零日漏洞传播恶意软件",
     "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137338&idx=2&sn=2b54725eb21fda1feeedac82b273d938": "ChainIQ遭网络攻击，影响UBS和KPMG等知名企业；IBM WebSphere高危RCE漏洞允许攻击者完全控制系统 |牛览",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070375&idx=2&sn=43a610075b530001df1d12c917a221e3": "【安全圈】Realtek 蓝牙协议漏洞允许攻击者通过配对过程发起拒绝服务攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070375&idx=2&sn=43a610075b530001df1d12c917a221e3": "【安全圈】Realtek 蓝牙协议漏洞允许攻击者通过配对过程发起拒绝服务攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDcxNzg4MA==&mid=2247484619&idx=1&sn=453ea75f07f3c2fb6ddedefafceca616": "[漏洞复现]泛微sql注入漏洞复现",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485843&idx=1&sn=ca62e1d7b5c26a512d859425e8012da6": "Bypass 403漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494116&idx=2&sn=420cfc426d33fc6eaeb580b4e058f529": "CitrixBleed 2：重现NetScaler设备噩梦的“CitrixBleed”漏洞幽灵",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795556&idx=3&sn=1462f1899b0568d27249db66d9861493": "新漏洞使数百万台 Brother 打印机面临黑客攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490313&idx=1&sn=c59808dd4135c7a6d4d434f5cca727d5": "【高危漏洞预警】Elastic Kibana 原型污染致任意代码执行漏洞(CVE-2025-25012)",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499957&idx=1&sn=87ae1a8de70567795058011dbd6f5cb8": "分析和挖掘 .NET 系统全局权限访问绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491932&idx=1&sn=8d7657a5fa650fe20416ef5ec7364082": "TVT数码科技 NVMS-1000 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTYyMDk1Nw==&mid=2247483880&idx=1&sn=33c146d72d472dd3162c8ead79ed0453": "【情报】Notepad++存在高危提权漏洞CVE-2025-49144",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490324&idx=2&sn=6b58eb496b8f53f932cd48a07884c4e1": "【高危AI漏洞预警】Llama-Factory vhead_file代码执行漏洞（CVE-2025-53002）"
 }
