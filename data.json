@@ -15727,5 +15727,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096358&idx=2&sn=0bdd6716511352a19ae6a051668361dd": "思科 ISE 漏洞允许远程攻击者执行恶意命令",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=1&sn=4673c140780854d180246684f5bfb049": "WinRAR目录遍历漏洞允许通过恶意文件执行任意代码",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQyODI4Ng==&mid=2247497115&idx=3&sn=228ace9e52b723b17411f2f534d92f5b": "Python标准库tarfile模块存在任意文件写入高危漏洞，PoC已公开",
-    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分"
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506847&idx=1&sn=4272d6c554696334581739689d4dadd8": "破解 JWT：漏洞赏金猎人指南（第六部分",
+    "https://mp.weixin.qq.com/s?__biz=MzAwMjQ2NTQ4Mg==&mid=2247499565&idx=1&sn=34fc51e56817b871ded40c91db6234c1": "记一次从登录框到前台rce",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324021&idx=3&sn=758ad58f02fcc6eda8eddbd10a0dcc4c": "思科两处高危RCE漏洞可致未授权获取root权限",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODY1NzEwMA==&mid=2247492295&idx=1&sn=0bd0632f2c051e01cc92f30b83828cfc": "漏洞挖掘Trips | Next.js 路由快速提取"
 }
