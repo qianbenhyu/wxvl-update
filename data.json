@@ -15740,5 +15740,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=1&sn=5de4b8ecac2320c1de92bbfa53ecb418": "【漏洞通告】MIB3图片服务器中的堆缓冲区溢出",
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493534&idx=2&sn=6395c87b1e88130d313f3c8fc286bae4": "漏洞预警 | 唯徳知识产权管理系统任意文件读取漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkwOTE3MzAxOA==&mid=2247485724&idx=1&sn=78443e46894a904a053cbdf53fa1fe02": "Cobaltstrike反制浅析——从伪装上线到RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘"
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487436&idx=1&sn=be143102d776f443d8512a4f3d8684c6": "如何在日常渗透中实现通杀漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516893&idx=1&sn=4a4dc60c59e057104bc1dedabf35955f": "漏洞检测工具 -- ecology9_sqli（DVB-2025-9428∕QVD-2025-23834）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=3&sn=31e070c34491bf08085a7d13141c13cb": "【漏洞通告】MIB3娱乐信息系统的网络服务中的命令注入",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MzkwNzI1OQ==&mid=2247486750&idx=1&sn=3edb517ea02d8bd6dc95a9caf128d84c": "记录一次AI小子实战遇到未接触过的语言源码，如何通过AI辅助审出前台RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511453&idx=1&sn=ff9ebe8add1863c0813c96ac9395abe0": "蓝牙零日漏洞：数百万耳机变身隐秘窃听站",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484532&idx=1&sn=8c5ab3be35fdf036e9844cdeeabada0b": "Notepad++提权漏洞POC及一键部署环境（CVE-2025-49144）",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506865&idx=1&sn=4ab467a93c57c8645bb7184e62bb1679": "破解 JWT：漏洞赏金猎人指南（第七部分）——最终的 P1 Boss"
 }
