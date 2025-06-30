@@ -15734,5 +15734,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491951&idx=1&sn=0680cafaf30b3e67a32c2b0ecccb42bd": "H3C ER3200G2路由器 信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NDcxMDQzNA==&mid=2247489718&idx=1&sn=726cfebbf94e1c4c60e8c850fb4e3673": "CVE-2025-33053 Poc复现研究细节",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络",
-    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490132&idx=1&sn=07ba6c193632c29209e311fae62797fa": "【代码审计】某产品UserCreateService存在任意用户添加漏洞分析"
+    "https://mp.weixin.qq.com/s?__biz=MzU3MjU4MjM3MQ==&mid=2247490132&idx=1&sn=07ba6c193632c29209e311fae62797fa": "【代码审计】某产品UserCreateService存在任意用户添加漏洞分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=2&sn=4b273b1dae929c905847eb75c817bbbc": "【漏洞通告】MIB3安全启动过程的旁路",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMzQyMzUwMg==&mid=2247486716&idx=2&sn=922373703dcf59975e7e70f3a5ec6934": "看完这篇再挖不到漏洞，请顺着网线来砍我",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjczMzc1NA==&mid=2247486744&idx=1&sn=5de4b8ecac2320c1de92bbfa53ecb418": "【漏洞通告】MIB3图片服务器中的堆缓冲区溢出",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493534&idx=2&sn=6395c87b1e88130d313f3c8fc286bae4": "漏洞预警 | 唯徳知识产权管理系统任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE3MzAxOA==&mid=2247485724&idx=1&sn=78443e46894a904a053cbdf53fa1fe02": "Cobaltstrike反制浅析——从伪装上线到RCE"
 }
