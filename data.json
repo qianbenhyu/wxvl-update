@@ -15776,5 +15776,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493546&idx=3&sn=d08eea3ea0118239a217d343dc31fd19": "漏洞预警 | 用友NC SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5Mzc4MzUzMQ==&mid=2650261370&idx=1&sn=18504a61d83c70267e35639ced27d133": "【CVE-2025-49144】Notepad++ 漏洞可实现系统完整入侵",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "IBM WebSphere Application Server 允许远程执行代码漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491980&idx=1&sn=0425e1ac6aba4303cd7fb98b6307bc55": "红帆OA MobileOA.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207230&idx=1&sn=be1b2877b624966bf5393397469e9f94": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册",
+    "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=2&sn=b3c49f08044fa93f0b294e0ed8852e00": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)"
 }
