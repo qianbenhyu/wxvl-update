@@ -15782,5 +15782,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=1&sn=69b96ddf5e6b92e1c401efa186d2f1f4": "【必查漏洞】Sudo Host_Alias 权限提升漏洞 (CVE-2025-32462) 检测手册",
     "https://mp.weixin.qq.com/s?__biz=MzU4NDY3MTk2NQ==&mid=2247491736&idx=1&sn=c058b634e9bf320f603b91d1de78ff2a": "Chrome在野CVE-2025-6554漏洞poc公布",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324079&idx=1&sn=c11acae8f7897f7fa528977c559d8c05": "Linux高危Sudo漏洞，可提权至root并绕过限制，PoC已公开",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=2&sn=b3c49f08044fa93f0b294e0ed8852e00": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=2&sn=b3c49f08044fa93f0b294e0ed8852e00": "【在野利用】Chrome V8 引擎类型混淆漏洞(CVE-2025-6554)",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523414&idx=2&sn=35dbec1ac12ce977cb52bd37b9d9860a": "MongoDB 服务器预认证漏洞可用于触发 DoS 条件",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503447&idx=1&sn=2a7f45d6621139fb1c9bb7364fe7dce5": "雷神众测漏洞周报2025.6.23-2025.6.29",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "记一次某大厂csrf漏洞通过蠕虫从低危到高危",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册"
 }
