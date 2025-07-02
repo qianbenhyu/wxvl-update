@@ -15787,5 +15787,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503447&idx=1&sn=2a7f45d6621139fb1c9bb7364fe7dce5": "雷神众测漏洞周报2025.6.23-2025.6.29",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521959&idx=2&sn=7d995c11b35283ee1e76812768d2151c": "记一次某大厂csrf漏洞通过蠕虫从低危到高危",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
-    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册"
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册",
+    "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516905&idx=1&sn=900d3adbb01a34ee0615ded711105778": "网站API挖掘提取与漏洞探测工具 -- Super-API-Finder(6月30日更新)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492897&idx=1&sn=200f78d280c37069d42eb4e905bb1352": "安卓版CobaltStrike：远程控制的终极利器|漏洞探测"
 }
