@@ -15820,5 +15820,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501255&idx=2&sn=d6e9b21552f7237cbd8e87489840aae7": "【漏洞通告】Wing FTP Server 远程代码执行漏洞(CVE-2025-47812)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519515&idx=1&sn=f30efcb700f7338573925ec983993cec": "SRC漏洞挖掘之“嫂子开门，我是我哥”",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTUwNTg2Ng==&mid=2247485534&idx=1&sn=965510532c48f2610001136d57f67e79": "Windows命令执行场景下落地文件的常见方法",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b": "Nessus严重漏洞允许覆盖任意本地系统文件"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b": "Nessus严重漏洞允许覆盖任意本地系统文件",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503538&idx=1&sn=5439ec7c9b1446ac237be77feab8fcd0": "【已复现】WinRAR 目录穿越漏洞(CVE-2025-6218)安全风险通告"
 }
