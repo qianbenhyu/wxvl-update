@@ -15877,5 +15877,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492050&idx=1&sn=25241e12d8fd7b7a7d959aebea062c21": "JieLink+智能终端操作平台 DeleteIpPool SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyODY3NjkyNQ==&mid=2247485146&idx=1&sn=af8e2991ba6ad6d2a3648681ae65aca0": "Gogs最新RCE分析与利用详情 全网首发",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486412&idx=1&sn=6572273038c7614e5a0b8fa78d55f08b": "工具集：xxl-job-attack【xxl-job漏洞综合利用工具】",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492040&idx=1&sn=a2365a44429fd8ac844dbaefe647210a": "安科瑞环保用电监管云平台 UploadNewsImg 任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492040&idx=1&sn=a2365a44429fd8ac844dbaefe647210a": "安科瑞环保用电监管云平台 UploadNewsImg 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=2&sn=e7df67683a084053ceec541815be401e": "CVE-2025-53367：DjVuLibre 中可利用的越界写入漏洞"
 }
