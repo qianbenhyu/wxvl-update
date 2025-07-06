@@ -15882,5 +15882,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2NDY2OTU4Nw==&mid=2247521558&idx=1&sn=8ace6c1b9ba3c75bd1d77c68810fd128": "护网 | xxl-job漏洞综合利用工具",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=1&sn=5eb58ebd3099c52207add98ed4461dce": "[漏洞利用开发] 0A- 与内存守卫共舞：打破 Canaries∕Cookies、DEP∕NX 和 ASLR",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531649&idx=1&sn=64834d89e32ec56e08e86ecd3aafc82b": "攻击者通过滥用暴露的 Java 调试线协议 (JDWP) 接口实现远程代码执行，部署挖矿",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531708&idx=2&sn=4a6933ad20a93e82115716b907fedd14": "利用 DLL PEB 模块结构操作的代码执行∕注入技术",
+    "https://mp.weixin.qq.com/s?__biz=MzkxMjg3NzU0Mg==&mid=2247485869&idx=1&sn=6fe90b43d2b3ed6b8eeb7c8c28826e86": "【福利】漏洞挖掘文档！推荐下载",
+    "https://mp.weixin.qq.com/s?__biz=MzI1MDA1MjcxMw==&mid=2649908515&idx=1&sn=9dd45778d480828d43ccc3465239a217": "如何调试Microsoft Defender for Endpoint (MDE) 发现 CVE 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489900&idx=2&sn=979cd2b43277c825490a986e33c78693": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjU5NTY2MQ==&mid=2247484411&idx=1&sn=219cff6f844ff1b4d4f3a7c23eebf135": "【漏洞复现】0day-网关系统存在信息泄露漏洞"
 }
