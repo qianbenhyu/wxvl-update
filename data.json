@@ -15891,5 +15891,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzkyMjQ5ODk5OA==&mid=2247511636&idx=1&sn=94681386248c3ac747670b841ce822a3": "《使命召唤：二战》曝重大安全漏洞，数千玩家电脑遭远程控制",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492423&idx=1&sn=11c5751ce8c00ae8ea6046da3c250e20": "QVD-2025-23408：契约锁电子签章系统未授权RCE漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=1&sn=aa9233641ab5de3a299f4d20e0b510ea": "多个 PHP 支持 SQLi 和 DoS 攻击漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096374&idx=2&sn=0db1104436ef7e1f9d8ce2148c89f9f2": "Next.js 允许攻击者通过缓存中毒触发 DoS漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI5NTQ5MTAzMA==&mid=2247484501&idx=1&sn=d382e52bf88d07f6596b7426acf7f730": "第128篇：Struts2全版本漏洞检测工具19.68版本更新",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492060&idx=1&sn=0aa4a27dfb422c5b871569d898293228": "百易云资管系统 imaRead.make.php SQL注入漏洞"
 }
