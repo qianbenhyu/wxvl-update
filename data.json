@@ -15952,5 +15952,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501277&idx=2&sn=4281534d703a4bbc63efa979f6383778": "【漏洞通告】Redis hyperloglog命令越界写入导致RCE漏洞 (CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzA3NTc0MTA1Mg==&mid=2664712402&idx=1&sn=c474ae778a24fb49e2dfe5be1573a1ac": "Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)复现研究",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY2MjU2Mg==&mid=2247483857&idx=1&sn=93db8bf128d335497ee7d8c989f635a3": "平平无奇的越权漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=1&sn=d16d119a7e4c6b4d16fe0e3570c1b46f": "CVE-2024-0582 内核提权详细分析"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=1&sn=d16d119a7e4c6b4d16fe0e3570c1b46f": "CVE-2024-0582 内核提权详细分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494163&idx=1&sn=ef3a94f06cd0f1e50ff400b0fd0c78ba": "【已复现】Redis HyperLogLog远程代码执行漏洞(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486429&idx=1&sn=1122596685f8cc2619332467ebe13ffc": "Unauthorized-Vul【最全未授权访问漏洞批量检测工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490389&idx=1&sn=a4b381c2318fb8f2925676474ebc9324": "【高危漏洞预警】Redis hyperloglog远程代码执行漏洞CVE-2025-32023",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596966&idx=2&sn=e31bcd83bed515a47986bdc1cb110940": "CISA 将谷歌 Chromium V8 漏洞纳入必修补名单，7月23日前须完成修复"
 }
