@@ -15971,5 +15971,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516963&idx=1&sn=ee00aff35e8bf7a7f1ded9b69d562f9e": "Struts2全版本漏洞检测工具 -- Struts2VulsScanTools（7月5日更新）",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484705&idx=1&sn=49fad1f3e7c910efc380ae3f1895f0fc": "漏洞预警 | Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795661&idx=3&sn=2488e7df2447ab0208b59164f15dd06a": "微软 7 月补丁日修复 130 个漏洞，其中包括 SQL Server 0day",
-    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告"
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503563&idx=1&sn=09169a0ba263b129a115d0fa708b0d02": "【已复现】Redis hyperloglog 远程代码执行漏洞(CVE-2025-32023)安全风险通告",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484898&idx=1&sn=8398d7bfb2fa31deb03c63d073a09293": "【漏洞复现】汉王EFaceGo upload.do 任意文件上传漏洞"
 }
