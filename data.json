@@ -16025,5 +16025,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxMTUwOTY1MA==&mid=2247491130&idx=1&sn=bce87c351315abd069bb98e99f37ac10": "大洞，速修，Redis远程命令执行漏洞。",
     "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492767&idx=1&sn=f859ddce15279eae9d072ed1a9357c2a": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
     "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523530&idx=2&sn=e19607b9a1bbf6bc70c902e40f0de1d3": "Fortinet 修复FortiWeb 中的严重SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523537&idx=2&sn=5d168afda91b79b08357b3c4cc3f579d": "Splunk 修复 SOAR 版本中的第三方包漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523537&idx=2&sn=5d168afda91b79b08357b3c4cc3f579d": "Splunk 修复 SOAR 版本中的第三方包漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324737&idx=1&sn=8f0843cf1d51ac50bd1eae4a5f0e4c87": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490613&idx=1&sn=bf728f4cff492892dae89570b62f83db": "2025-7-10日漏洞情报汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "某电动汽车充电控制器曝严重漏洞，可被远程控制",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245407&idx=2&sn=13edbb43d857ccee5d8e4bb9ad8106be": "CNNVD | 关于微软多个安全漏洞的通报"
 }
