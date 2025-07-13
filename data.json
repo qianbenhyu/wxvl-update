@@ -16109,5 +16109,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489423&idx=1&sn=f3712506893025290c1cd8f1459d5d32": "Win32k 的漏洞利用 - CVE-2023-29336 详细分析",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488282&idx=1&sn=9c0d55fb7692c79b5d1e5045cd757f49": "Redis 高危漏洞！HyperLogLog 竟成系统后门？(CVE-2025-32023)",
     "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492596&idx=1&sn=a50b7b65f5e4064042180aab1032775c": "分析某oa历史漏洞中捡到CNVD证书",
-    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515238&idx=1&sn=cfdc6ce9b21adb84b611c5f7b27df1b9": "eSIM漏洞危机-几十亿手机可被监听"
+    "https://mp.weixin.qq.com/s?__biz=MzIxOTM2MDYwNg==&mid=2247515238&idx=1&sn=cfdc6ce9b21adb84b611c5f7b27df1b9": "eSIM漏洞危机-几十亿手机可被监听",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611404&idx=4&sn=f4ff1d606e1d6f8ff505f82837b16d16": "Struts2全版本漏洞检测工具更新！V19.68"
 }
