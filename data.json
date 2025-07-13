@@ -16126,5 +16126,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg5NzUyNTI1Nw==&mid=2247497439&idx=1&sn=346a6cf1bf2e154c590fd2471a245e0c": "Struts2全版本漏洞检测工具更新！V19.68",
     "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480563&idx=1&sn=4a7bad3b21c045e07a6af0044e20f2d8": "秦安：强烈的信号！将8家台湾实体列入出口管制，堵住天大的漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487565&idx=1&sn=1f8f19fa59f52f8098ffe19d836e1b57": "JS扫描与漏洞挖掘利器推荐—Rotor Goddess",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDMyNzk5NQ==&mid=2247484884&idx=1&sn=4db22793b7eb8e943f0dbcbd42102bd1": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483910&idx=1&sn=ddd1317a978088995b6a1ebd87b17f71": "【已复现】用友NC FormItemServlet方法存在SQL注入漏洞"
 }
