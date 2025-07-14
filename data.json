@@ -16140,5 +16140,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzkyNTUyNTE5OA==&mid=2247487511&idx=2&sn=8d2f6557da638b43fa93a032bbb453a8": "众测实战 | 一次正负叠加导致的支付漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MDgyMzkwOA==&mid=2247491740&idx=1&sn=37e62d91d022d1f13d20907fdef46825": "清源SCA社区每日漏洞提早感知情报、新增CVE及投毒情报推送-2025年07月11~13日",
-    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492157&idx=1&sn=3c92664fd962247eef58f7b0f582a3a4": "渗透测试0day漏洞归属与外包源代码安全责任探讨。｜总第293周"
+    "https://mp.weixin.qq.com/s?__biz=MzI2MjQ1NTA4MA==&mid=2247492157&idx=1&sn=3c92664fd962247eef58f7b0f582a3a4": "渗透测试0day漏洞归属与外包源代码安全责任探讨。｜总第293周",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795697&idx=1&sn=d95257c858f5e767abdabe510f3bac8d": "黑客正在利用 Wing FTP 服务器中的关键 RCE 漏洞(CVE-2025-47812)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk2NDkyMjUxMA==&mid=2247483689&idx=1&sn=0aa653b5743553d1825b5947385aed22": "一个面板的RCE方式"
 }
