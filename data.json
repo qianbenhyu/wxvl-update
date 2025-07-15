@@ -16165,5 +16165,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4ODg2MjQ5Mg==&mid=2247484142&idx=1&sn=b7b1520274e05a7c03c144e80761199c": "Fortinet FortiWeb SQL注入 CVE-2025-25257",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324846&idx=3&sn=7a22c6935abca7bdf46bf166aa5bb5d8": "技嘉UEFI固件SMM漏洞使系统面临固件植入和持久控制风险",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493266&idx=1&sn=411c7e0604d139facf2cd75ca77cd465": "图形化POC+资产扫描+漏洞验证Yscan让 Web 安全扫描更简单高效|工具分享"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493266&idx=1&sn=411c7e0604d139facf2cd75ca77cd465": "图形化POC+资产扫描+漏洞验证Yscan让 Web 安全扫描更简单高效|工具分享",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493714&idx=2&sn=81e73f9253673a4f7f9d2e49fe4a8bdd": "漏洞预警 | 汉王e脸通智慧园区管理平台反序列化和SQL注入漏洞"
 }
