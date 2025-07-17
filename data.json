@@ -16205,5 +16205,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzkxNzA3MTgyNg==&mid=2247539573&idx=2&sn=5e63b2c04cc00ee78f68f039abff0d77": "资产维度分类之全球数据库漏洞大盘点",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=2&sn=b8f964af67c9b2e67292e2498926bc29": "【已复现】用友U9 Cloud远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
-    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=1&sn=66c0d876dfb455de07d6dd757c11785c": "Node.js 漏洞使 Windows 应用程序面临路径遍历和 HashDoS 攻击"
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096390&idx=1&sn=66c0d876dfb455de07d6dd757c11785c": "Node.js 漏洞使 Windows 应用程序面临路径遍历和 HashDoS 攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247489561&idx=1&sn=38afd7424219c9e5561316f486e4cc9f": "Out of Band Exploitation (OOB) 利用技术速查表",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486558&idx=1&sn=e150a399f701a2a8c0b490ea631bfa05": "代码审计-Java项目-反序列化漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDQ0MDcxMw==&mid=2247488103&idx=1&sn=a56fa96efb3c33bba24c7ae3261ce6e7": "web安全 - SQL注入漏洞深度详解",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490033&idx=1&sn=cd1fba8e57dcd48a6f8a36cb63e8a19f": "一个实时更新的漏洞裤",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507850&idx=1&sn=92e3b86bb828888ef9f72653adc6c80c": "漏洞通告 | 用友YonBIP（R6旗舰版）任意用户密码重置漏洞"
 }
