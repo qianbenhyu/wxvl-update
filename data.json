@@ -16258,5 +16258,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486523&idx=1&sn=1690be9fbd7ae4c115ce9cf881fca562": "Windows Exploit Suggester - Next Generation【Windows漏洞检查工具】",
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245703&idx=2&sn=5b268c55fba13203ab8183247a139c63": "CNNVD | 关于Oracle多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NzI3ODU0Mg==&mid=2247483901&idx=1&sn=584c0ed15e48cd1b6b2844170a747f22": "【CVE-2024–31317】提权漏洞复现",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=4&sn=202ab52532231d393da9f3e3e9320e01": "Node.js路径穿越与哈希拒绝服务攻击漏洞威胁Windows应用"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324992&idx=4&sn=202ab52532231d393da9f3e3e9320e01": "Node.js路径穿越与哈希拒绝服务攻击漏洞威胁Windows应用",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500987&idx=1&sn=25f8d604058e852f92ef77abc5548ad6": "WPS 文档中心与文档中台远程代码执行漏洞远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493342&idx=1&sn=310524ec00f65a8062bbda3ab2a2f8d9": "Struts2全版本漏洞检测工具再次升级 一键检测十余种Struts2高危漏洞|工具分享",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494298&idx=1&sn=94da07edbc63634f6c0231aa043a663f": "【首发复现】Windows NEGOEX 蠕虫级高危远程代码执行漏洞(CVE-2025-47981)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325085&idx=3&sn=3fdc985551c6f7ef9efd22161d1894bc": "Windows Server 2025黄金dMSA漏洞使攻击者永久获取访问权限",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTY3Nzc3Mg==&mid=2247490163&idx=1&sn=b3f45daec1576c19d9cd94b0751a9bda": "记一次有趣的逻辑漏洞挖掘",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494304&idx=1&sn=24b77ad7adcfcdc3dbeddc75f3a8ce32": "独家 | 360联合清华大学发布全球首份智能体安全报告，曝光20+漏洞！"
 }
