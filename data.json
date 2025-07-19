@@ -16324,5 +16324,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492192&idx=1&sn=2204c560a0d68d9237131513a57b33ab": "汉王EFaceGo updateVisitorMapConfig.do任意文件上传漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzA4NTAxMjA5Mg==&mid=2247484495&idx=1&sn=4f565a89e230b4cfbbfb7df78fa9706a": "CVE-2025-23267挖掘报告: GPU容器逃逸再现",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493495&idx=1&sn=791bebc6faa651cc3c585c2f5f481d21": "渗透测试 ｜ 分享某次项目上的渗透测试漏洞复盘",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494392&idx=1&sn=7ee67506322648e0494c2c8f39467044": "【稳定复现】微信客户端目录穿越漏洞 (可导致远程代码执行)",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490046&idx=1&sn=3e3b0e6e437b0c67ab0fee641495004c": "WX RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096397&idx=2&sn=e7fec28c9a1dbdde9d1dde9ddb08c222": "NVIDIA 容器工具包允许攻击者执行特权代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583863&idx=1&sn=247a5ef8a5281ed71aa75625259ef035": "黑客正在利用Wing FTP服务器的关键RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493785&idx=3&sn=91850abc2376b8b501446d5d75e94086": "漏洞预警 | 东胜物流软件SQL注入漏洞"
 }
