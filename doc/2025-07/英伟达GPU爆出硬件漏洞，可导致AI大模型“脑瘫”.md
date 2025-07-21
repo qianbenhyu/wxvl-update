@@ -1,8 +1,9 @@
 #  英伟达GPU爆出硬件漏洞，可导致AI大模型“脑瘫”  
- GoUpSec   2025-07-15 02:57  
+ 网络安全与人工智能研究中心   2025-07-21 07:30  
   
-![](https://mmbiz.qpic.cn/sz_mmbiz_png/INYsicz2qhvYXquna13TokiawQG3MHQQLkLhJld19aibFmDfZSqEWsW6Nz7ucrdn6qbRX1icXibJ5uj3pzIFh03lB8Q/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/ezpQRXtYHiby2xibacqr9cSTHFjaSVHFo5NM3nRb2WHvGuRbjjerowfQ2YdDXgUtkbibPicPN0koSwgZEPIbichUFMg/640?wx_fmt=gif&from=appmsg "")  
   
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHiby2xibacqr9cSTHFjaSVHFo5H7lOqp7aXm0tvOTcVK56pnDcqHLv98TsmUUYCFhCHqFqA2qqDtg37g/640?wx_fmt=png&from=appmsg "")  
   
 一种新的针对英伟达GPU（搭载GDDR6显存）硬件漏洞的RowHammer攻击变体可将“自动驾驶”和“金融风控”等AI模型的准确率“归零”。  
   
@@ -16,9 +17,7 @@
 该攻击被认为是首次在NVIDIA GPU（如搭载GDDR6显存的A6000）上成功演示的RowHammer攻击变体，标志着这类曾广泛威胁DRAM和CPU的硬件漏洞正在向GPU扩散，对AI基础设施的构成重大风险。  
   
   
-  
 **GPU版熔断攻击**  
-  
   
   
 GPUHammer是RowHammer攻击家族中的最新变种，是一种在AI模型层以下运作的新型攻击——改变内部权重而非外部数据。  
@@ -30,9 +29,7 @@ GPUHammer是RowHammer攻击家族中的最新变种，是一种在AI模型层以
 而与CPU不同的是，GPU由于历史上缺乏侧信道防御研究、校验机制和访问控制，成为天然“薄弱环节”。尽管许多NVIDIA显卡已启用目标刷新率（TRR）等缓解机制，但GPUHammer仍能绕过这些限制，在显存中实施有效篡改。  
   
   
-  
 **攻击影响：AI准确率从80%跌至0.1%**  
-  
   
   
 来自多伦多大学的研究人员构建的PoC（概念验证）显示，只需一次比特翻转，就能将ImageNet深度神经网络模型的准确率从80%降至0.1%。也就是说，这一攻击不仅能破坏内存数据，还可“静默”削弱AI推理结果，且难以被即时检测。  
@@ -47,9 +44,7 @@ GPUHammer的影响远不止于数据中心训练节点。边缘计算设备、�
 在监管要求严格的行业中，这种攻击带来的AI错误推理可能违反《E.U.AI法案》、ISO/IEC27001等安全性、可解释性和数据完整性合规框架。  
   
   
-  
 **如何防御？启用ECC是关键**  
-  
   
   
 为防范GPUHammer攻击，NVIDIA建议用户通过命令nvidia-smi-e1启用ECC功能，并使用nvidia-smi-q|grepECC验证状态。尽管ECC启用后可能导致A6000显卡推理性能下降约10%、显存减少6.25%，但其在AI模型完整性方面的保护能力至关重要。  
@@ -64,9 +59,7 @@ GPUHammer的影响远不止于数据中心训练节点。边缘计算设备、�
 GPUHammer的曝光并非孤例.研究人员指出，2022年已有“SpecHammer”技术将RowHammer与Spectre攻击结合，以实现投机执行漏洞的跨域利用。而近日，来自NTT和CentraleSupelec的研究者发布的“CrowHammer”攻击更进一步，其可通过微小比特翻转成功破解Falcon后量子签名算法的私钥，仅需数亿次签名样本。  
   
   
-  
 **总结：GPU安全须纳入AI基础设施治理视野**  
-  
   
   
 GPUHammer清晰表明，AI模型的脆弱性不仅存在于输入层（如对抗样本），还可能来自硬件底层的显存干扰。在AI日益普及、云端部署广泛的背景下，企业、云服务商与科研机构亟需将GPU内存完整性纳入安全治理与合规检查范围，更新GPU使用策略与硬件选择标准。  
@@ -74,45 +67,35 @@ GPUHammer清晰表明，AI模型的脆弱性不仅存在于输入层（如对抗
   
 参考建议：  
   
-- 高风险任务建议启用ECC；  
+**高风险任务建议启用ECC；**  
   
-- 监控系统日志发现潜在翻转事件；  
+**监控系统日志发现潜在翻转事件；**  
   
-- 对云平台GPU资源进行租户隔离与访问监控；  
+**对云平台GPU资源进行租户隔离与访问监控；**  
   
-- 跟进硬件厂商补丁与防护机制更新。  
+**跟进硬件厂商补丁与防护机制更新。**  
   
 在AI“深水区”中，GPUHammer敲响了又一次安全警钟。它不再是“显存小故障”，而是直通AI核心系统的攻击入口，自动驾驶或金融风控等AI关键基础设施一旦遭受攻击导致“脑瘫”，可导致灾难性的后果。  
   
   
 参考链接：  
-- https://gpuhammer.com  
   
-- https://nvidia.custhelp.com/app/answers/detail/a_id/5671  
+https://gpuhammer.com  
   
-  
-  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/INYsicz2qhvbJ3aCGM50PbZtic5aDicS3EvfpQ7dCyEhTy0G7s5xdSnzXiayb6GltxiaKbW9p1L15SUrGgIvwAR6GmQ/640?wx_fmt=jpeg&from=appmsg "")  
-  
+https://nvidia.custhelp.com/app/answers/detail/a_id/5671  
   
 END  
   
   
   
-相关阅读  
+  
+来源｜“GoUpSec”微信公众号  
+  
+编辑｜风东曾  
+  
+审核｜秦川原  
   
   
-  
-[投资回报率最高的AI应用：漏洞猎人](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503705&idx=1&sn=88d74f2cdd129dd5ec77f23eb29908e9&scene=21#wechat_redirect)  
-  
-  
-[用“算力门槛”阻击AI爬虫](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503689&idx=2&sn=4ad01c8f4c240d928cbceb1245f7bbe1&scene=21#wechat_redirect)  
-  
-  
-[她写出一个小工具，对抗整个AI产业的爬虫大军](https://mp.weixin.qq.com/s?__biz=MzkxNTI2MTI1NA==&mid=2247503672&idx=2&sn=e3684e09baf41a698d79ef4fbda35bb8&scene=21#wechat_redirect)  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_jpg/INYsicz2qhvbgcN4QY36lK2wjCavZiadQThpmM11FR4xkwyVG7K24lkpoLRcFHuZ7gAHgZEsr6Mia7BmKuwDJqX4g/640?wx_fmt=jpeg "")  
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHiby2xibacqr9cSTHFjaSVHFo5SGElXibhHJBpEF0XWrFI3uheF7aRDtsPa1qRdPv8iblRefTzZWc5D3QA/640?wx_fmt=png&from=appmsg "")  
   
   
