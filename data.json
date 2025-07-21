@@ -16361,5 +16361,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547257&idx=2&sn=6745ead8cbc9f22456ea133e4c77d148": "关于Google Chrome V8存在类型混淆漏洞的安全公告",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=1&sn=ea631f6d34c9881b7185d5b00c5d3f88": "【热点漏洞】Windows微信客户端存在目录穿越漏洞（可远程代码执行）",
     "https://mp.weixin.qq.com/s?__biz=MzI5NTUzNzY3Ng==&mid=2247489178&idx=1&sn=da94d972d802ca4c55bf8dfd5a5cac85": "漏洞预警|请尽快更新Windows微信到4.0版本",
-    "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489440&idx=1&sn=52e46ab1d65d62e5eca08cc8076fb77c": "Windows 任意文件读取漏洞如何扩大战果？"
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MDA5NzUzNA==&mid=2247489440&idx=1&sn=52e46ab1d65d62e5eca08cc8076fb77c": "Windows 任意文件读取漏洞如何扩大战果？",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494310&idx=1&sn=21b1f6fa50c3940fcc233309b4c86305": "Fortinet FortiWeb漏洞CVE-2025-25257在PoC发布数小时后遭利用",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492203&idx=1&sn=9000d42b30c4b17c28683e1e580ccd7e": "汉王EFaceGo monadFileUpload.do 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486540&idx=1&sn=fad70cc68e4eb00bd89c62f5506a6624": "VRST【红队靶标漏洞储备快速检索工具】",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDAyNTY2NA==&mid=2247519647&idx=2&sn=968500d0280ea39cbb9b9f8288c939b4": "实战 | 记一次某学校AKSK泄露拿下中危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486584&idx=1&sn=b255c35c4fec126d5d6a0863124cba11": "代码审计-ASP.NET项目-未授权访问漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900984&idx=1&sn=d98c17ca43e4a87289b89c03920b1777": "深度剖析思科ISE CVSS 10.0 漏洞：数字身份中枢的“完美风暴”"
 }
