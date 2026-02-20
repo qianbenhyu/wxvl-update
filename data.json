@@ -16515,5 +16515,6 @@
     "https://mp.weixin.qq.com/s/lof90uNMllv0fr7BjgbpUg": "利用MSSQL与ADCS漏洞：攻破域控?",
     "https://mp.weixin.qq.com/s/7SQViRdF-lUnGAI53HMWtQ": "Super Xray：一款基于 Xray 的漏洞扫描工具",
     "https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ": "疑似未知国家APT利用RecoverPoint 的一个严重漏洞 (CVE-2026-22769) 发起零日攻击",
-    "https://mp.weixin.qq.com/s/mXYRhR4wSpvowfin-93Buw": "Firefox 0Day漏洞：单字符错误引发RCE风险，攻击者可劫持系统"
+    "https://mp.weixin.qq.com/s/mXYRhR4wSpvowfin-93Buw": "Firefox 0Day漏洞：单字符错误引发RCE风险，攻击者可劫持系统",
+    "https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg": "配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系"
 }
