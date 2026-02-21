@@ -16516,5 +16516,9 @@
     "https://mp.weixin.qq.com/s/7SQViRdF-lUnGAI53HMWtQ": "Super Xray：一款基于 Xray 的漏洞扫描工具",
     "https://mp.weixin.qq.com/s/_RU3u1kR_Uu_hJW5mUwujQ": "疑似未知国家APT利用RecoverPoint 的一个严重漏洞 (CVE-2026-22769) 发起零日攻击",
     "https://mp.weixin.qq.com/s/mXYRhR4wSpvowfin-93Buw": "Firefox 0Day漏洞：单字符错误引发RCE风险，攻击者可劫持系统",
-    "https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg": "配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系"
+    "https://mp.weixin.qq.com/s/rNA_YZl_2t9KmC8mABbkwg": "配置信息泄露：SRC漏洞挖掘的“金矿脉”与工业化狩猎体系",
+    "https://mp.weixin.qq.com/s/AzA7tX6EFuGAQ4SotgZvmA": "SmarterMail 关键远程代码执行漏洞在野外被利用",
+    "https://mp.weixin.qq.com/s/16NaX2RlYumcVYH6n0QOWA": "Tomcat漏洞允许攻击者通过HTTP∕0.9请求绕过安全限制",
+    "https://mp.weixin.qq.com/s/xmU88CJcC7Qw11CTQ6fEuA": "谷歌紧急发布关键Chrome更新，以修复PDFium和V8的严重漏洞",
+    "https://mp.weixin.qq.com/s/bIPu5F-rsL-wjsahbInXmg": "Jenkins 存在严重漏洞导致建环境易受 XSS 攻击"
 }
