@@ -16740,5 +16740,9 @@
     "https://mp.weixin.qq.com/s/WK45CcPnhtbFhE28blfkzQ": "重磅打造 | 0day系列——Web框架漏洞挖掘",
     "https://mp.weixin.qq.com/s/fwAFzntu5JAHFsZyffhSFQ": "【安全圈】Python 热门 ORM 爆出 9.8 分致命漏洞，数据库或被完全读取",
     "https://mp.weixin.qq.com/s/_evFS7pc3dENFZIqfvduqg": "【0day】九佳易管理系统 picHY.ashx SQL 注入漏洞",
-    "https://mp.weixin.qq.com/s/42ZKGGysjDQ5wVRuspdz8Q": "安全通告丨网络安全漏洞通告（2026年2月）"
+    "https://mp.weixin.qq.com/s/42ZKGGysjDQ5wVRuspdz8Q": "安全通告丨网络安全漏洞通告（2026年2月）",
+    "https://mp.weixin.qq.com/s/2MbfPmIuFyTWyowmDStj-Q": "0day | 青龙面板最新版本鉴权绕过导致远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/fjT9Lh0io1ceU0kB8bD0mA": "青龙面板 v2.20.1 路由重写引发的鉴权绕过与配置写入风险（复现记录）",
+    "https://mp.weixin.qq.com/s/EjAedDCOV8rNCtXZvz-nUQ": "2026-02-28 最新CVE漏洞情报和技术资讯头条",
+    "https://mp.weixin.qq.com/s/2npxthv9hdLO4AD9idiMQQ": "0day 青龙面板 最新版本 鉴权绕过导致 RCE 分析"
 }
