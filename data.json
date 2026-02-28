@@ -16761,5 +16761,17 @@
     "https://mp.weixin.qq.com/s/5fd1nfZvb6Irqrbljj5uZg": "思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络",
     "https://mp.weixin.qq.com/s/DLsDZqQSa5MhJXL8O8zCkg": "天清汉马VPN安全网关系统任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s/ORvVs_wLFzqaWqKA0r4lvA": "【安全预警】Unitree Go2 机器狗被曝远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/U_FhbFQ9StnqNM93CPyjaQ": "CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览"
+    "https://mp.weixin.qq.com/s/U_FhbFQ9StnqNM93CPyjaQ": "CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览",
+    "https://mp.weixin.qq.com/s/EUtsKUtoEuBs3TbIdgTumA": "信息安全漏洞预警（2026年2月23日-2月28日）",
+    "https://mp.weixin.qq.com/s/Yri1rhULGwco5iPCGb5cNg": "天锐绿盘文档安全管理平台 findForPage.do SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/pgrujScra2J6y4X-BG1nWA": "全网首发 | 基于CORS漏洞示例验证的大模型能力Agent Skills能力从0到1全流程开发解析科普讲解，新手小白也能轻松上手",
+    "https://mp.weixin.qq.com/s/Y67DqZSpC02wuksXdckDFA": "【0day】九佳易管理系统 Ajax_XT.ashx SQL 注入漏洞",
+    "https://mp.weixin.qq.com/s/FTixLrmzIc54nfRWY58vNA": "信息安全漏洞周报（2026年第8期）",
+    "https://mp.weixin.qq.com/s/TgfjmR2177I5Y-ye4g7Tkg": "信息安全漏洞周报（2026年第7期）",
+    "https://mp.weixin.qq.com/s/vUyr5vL2luaPJPOIxc8cPw": "RustFS 控制台中的存储型 XSS 漏洞使 S3 管理员凭据面临风险",
+    "https://mp.weixin.qq.com/s/eNf7ZMrS37vjvjNxEIuGQw": "CVE-2026-1731 BeyondTrust 远程支持预授权远程代码执行漏洞概念验证",
+    "https://mp.weixin.qq.com/s/dC9Ei9G4z0chPxnKQIR1aA": "安全热点周报：谷歌修复了今年攻击中首个被利用的 Chrome 零日漏洞",
+    "https://mp.weixin.qq.com/s/cCNxCrxNN9BY_xPYD9vwLg": "漏洞速递 | 最新0day青龙面板RCE漏洞（建议自查）",
+    "https://mp.weixin.qq.com/s/isqOVIUQzWk5sOsActW7hw": "0134.构建虚拟道德黑客家庭实验室——第六部分：系统漏洞利用",
+    "https://mp.weixin.qq.com/s/5gqqTKlyH8ra8cMRLEZORA": "【新洞速递】CVE-2026-21962 Weblogic RCE漏洞"
 }
