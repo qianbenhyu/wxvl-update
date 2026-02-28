@@ -16752,5 +16752,14 @@
     "https://mp.weixin.qq.com/s/6AKuG2tsWo1h4Che0_zJLw": "带 AI 辅助的可视化漏洞扫描工具、支持 POC Nuclei 管理与生成、FOFA∕Hunter∕Shodan 资产搜索",
     "https://mp.weixin.qq.com/s/Ppk23lhqxT6_e7QWS3hfdA": "渗透测试Payload速查平台 | XSS∕SQLi∕SSRF∕RCE | React+TypeScript",
     "https://mp.weixin.qq.com/s/tN16xBSmKDUF2_aGgBpnJQ": "Nuclei 漏洞扫描图形化工具 -- Nuclei_Gui（2月25日更新）",
-    "https://mp.weixin.qq.com/s/pO9KhXPe0eGe27dH2-2bMg": "通往内核的七条路：RCE获取服务器权限的完整狩猎指南"
+    "https://mp.weixin.qq.com/s/pO9KhXPe0eGe27dH2-2bMg": "通往内核的七条路：RCE获取服务器权限的完整狩猎指南",
+    "https://mp.weixin.qq.com/s/8x7MOh0_uYhjltHgD985xA": "【网络安全】JWT缺陷下的越权漏洞详解与实操！",
+    "https://mp.weixin.qq.com/s/j7TdhAvGvSmOpRZGF42hvw": "EverShop严重安全漏洞警报：密码重置令牌直接暴露，CVSS 9.8分",
+    "https://mp.weixin.qq.com/s/F6ylokgrxYl_Kxpbb2vRBw": "俄系雇佣APT组织Mercenary Akula针对欧洲援乌金融机构展开攻击",
+    "https://mp.weixin.qq.com/s/j8psHJ40oLMyfpxIF4PvCg": "Rust 在预览模式中存在严重存储型 XSS | CVE-2026-27822 复现&研究",
+    "https://mp.weixin.qq.com/s/bJnwgw2e7YN6gr9fbWFgDQ": "5天，100+ CVE，0误报：我们用自研AI挖掘引擎重新定义了白盒漏洞挖掘",
+    "https://mp.weixin.qq.com/s/5fd1nfZvb6Irqrbljj5uZg": "思科Catalyst SD-WAN严重认证绕过漏洞遭长期入侵，可植入恶意节点控制网络",
+    "https://mp.weixin.qq.com/s/DLsDZqQSa5MhJXL8O8zCkg": "天清汉马VPN安全网关系统任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/ORvVs_wLFzqaWqKA0r4lvA": "【安全预警】Unitree Go2 机器狗被曝远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/U_FhbFQ9StnqNM93CPyjaQ": "CNVD公开Apache Continuum命令注入漏洞；谷歌发布 Nano Banana 2，AI 图像生成安全与效率双升级 | 牛览"
 }
