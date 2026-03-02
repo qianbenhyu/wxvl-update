@@ -1,23 +1,23 @@
 #  OpenClaw 0-Click漏洞致恶意网站劫持开发者AI Agent  
-e安在线
-                    e安在线  e安在线   2026-03-02 01:31  
+ 华盟信安   2026-03-02 06:37  
+  
+![](https://mmbiz.qpic.cn/mmbiz_png/E08BHTj0T118Bib5rnaIHM6U0O1TiakCZUpniaQDgk1S1UhtZuMkyj6Eg354ztUPialCg3fXaLSINfbOauypGfjOYBibWY17TkP0h2NiafXW8iaiaIo/640?wx_fmt=png&from=appmsg "")  
   
 Oasis安全研究人员在OpenClaw中发现了一个关键的零交互漏洞。作为史上增长最快的开源AI Agent框架之一，该漏洞允许任何恶意网站无需插件、扩展或用户操作即可静默获取开发者AI Agent的完全控制权。  
   
   
 OpenClaw（前身为Clawdbot和MoltBot）是一款自托管AI Agent，仅用五天就获得超过10万GitHub星标，现已成为全球数千名开发者的默认个人助手。该工具在开发者笔记本电脑本地运行，可连接消息应用、日历、开发工具和本地文件系统，代表用户执行自主操作——这种广泛访问权限正是该漏洞危害性极高的关键所在。  
+##   
   
-![](https://mmbiz.qpic.cn/mmbiz_png/Hxdb7gjfn9libbLzQXOdHbyvEQDAbAfuHZ2ntGerLjvZhDfCWRNKJD1GCbwdyE3EJInoypFgafKYuwyMAbNY2OoU7Wps4h5Mib9tBTIUYWmMQ/640?wx_fmt=png&from=appmsg "")  
-  
-**1**  
-  
-**攻击原理剖析**  
-  
+**Part01**  
+## 攻击原理剖析  
   
   
 OpenClaw通过绑定到本地主机的WebSocket网关运行，该网关作为Agent的核心协调层。macOS配套应用、iOS设备或其他机器等连接"节点"需向网关注册，并开放包括系统命令执行、文件访问和联系人读取等能力。  
   
+  
 攻击只需满足一个条件：开发者在浏览器中访问恶意或被入侵网站。  
+  
   
 完整攻击链如下：  
 - 受害者在其常规浏览器中访问攻击者控制的任何网站  
@@ -32,14 +32,15 @@ OpenClaw通过绑定到本地主机的WebSocket网关运行，该网关作为Age
   
 根本原因在于三个错误的设计假设：本地主机连接本质可信、浏览器发起的流量无法到达本地服务、速率限制无需应用于环回地址——这些假设在现代浏览器环境中均不成立。  
   
+  
 建立认证会话后，远程攻击者可直接与AI Agent交互，指令其搜索Slack历史记录中的API密钥、读取私密消息、从连接节点窃取文件以及执行任意shell命令。研究人员指出，对于使用典型OpenClaw集成的开发者而言，这等同于通过浏览器标签页实现的工作站完全沦陷，且受害者毫无察觉。  
+  
   
 Oasis Security的PoC完整演示了端到端攻击链，成功破解网关密码并与实时Agent实例进行交互。  
   
-**2**  
   
-**缓解措施建议**  
-  
+**Part02**  
+## 缓解措施建议  
   
 - 立即升级至OpenClaw 2026.2.25或更高版本  
   
@@ -49,13 +50,15 @@ Oasis Security的PoC完整演示了端到端攻击链，成功破解网关密码
   
 - 建立AI Agent身份治理策略，采用与人类用户和服务账户相同的严格标准  
   
+  
 OpenClaw团队将该漏洞评定为高危级别，并在24小时内发布补丁——这对志愿者驱动的开源项目而言值得称赞。但鉴于该工具的快速普及，企业应假设开发者设备中存在未打补丁的实例，并以处理任何关键补丁的同等紧迫性开展修复工作。  
   
   
-声明：除发布的文章无法追溯到作者并获得授权外，我们均会注明作者和文章来源。如涉及版权问题请及时联系我们，我们会在第一时间删改，谢谢！文章来源：OpenClaw 0-Click Vulnerability Allows Malicious Websites to Hijack Developer AI Agents  
+**参考来源：**  
   
+OpenClaw 0-Click Vulnerability Allows Malicious Websites to Hijack Developer AI Agents  
   
-![](https://mmbiz.qpic.cn/mmbiz_png/Hxdb7gjfn9n1pzRrwytwtxwhbeWORpTWMKBE985PwNZzIqOd4j5N13kZAUVp8ZkhFEUY2HyPlAnywg7wzHkIKJNycPYicMYSYX3xQZrh2zsk/640?wx_fmt=png&from=appmsg "")  
+https://cybersecuritynews.com/openclaw-0-click-vulnerability/  
   
-  
+文章来源：freebuf  
   
