@@ -16902,5 +16902,15 @@
     "https://mp.weixin.qq.com/s/Rcj5yZBfA4XDwyObfBfmLQ": "pocsuites安全工具源码分析",
     "https://mp.weixin.qq.com/s/c4fNfzn2TKA4VA1b9S1IFg": "Windows错误报告服务ALPC提权漏洞，PoC利用代码公开",
     "https://mp.weixin.qq.com/s/zTGQOuixh9CgXZ76-7SmZQ": "【高危漏洞预警】青龙面板身份认证绕过漏洞",
-    "https://mp.weixin.qq.com/s/BWVJsQI1sPmobRX4y3jDgw": "Chrome 漏洞可导致恶意扩展通过 Gemini 面板提权"
+    "https://mp.weixin.qq.com/s/BWVJsQI1sPmobRX4y3jDgw": "Chrome 漏洞可导致恶意扩展通过 Gemini 面板提权",
+    "https://mp.weixin.qq.com/s/rS9xYPGQr2M0BCnJiRhRjg": "JAVA电商系统前台文件上传漏洞审计流程",
+    "https://mp.weixin.qq.com/s/exSHealt1J3dmCwd90Cbuw": "天融信-上网行为管理系统代码审计命令执行+任意文件删除+任意文件下载",
+    "https://mp.weixin.qq.com/s/ORmMMbZjLe5eUz2h35SEjQ": "OpenClaw本地AI Agent零交互接管攻击链分析与思考｜ClawJacked【CVE-2026-25253】",
+    "https://mp.weixin.qq.com/s/S9kfYNRwKrBNrHZj6BvRow": "谷歌确认高通安卓组件中的 CVE-2026-21385 漏洞已被利用",
+    "https://mp.weixin.qq.com/s/tqDPiJvZDhlATRAEsS3cug": "[0day] Chrome Blink引擎UAF+渲染器逃逸，全链RCE已在野",
+    "https://mp.weixin.qq.com/s/8AtGriLMM_0PV4yi4L9n7w": "让 AI 像黑客一样思考，已斩获 49 个 CVE 的开源漏洞！全新一代AI代审工具漏洞发现效率提升 10 倍",
+    "https://mp.weixin.qq.com/s/tm8hnsKPhdcJejrqWSc7Yw": "那个凌晨，我终于挖到了人生第一个漏洞",
+    "https://mp.weixin.qq.com/s/KX8_GgirsfPQt6SvIqBnUQ": "WordPress 安全警报：热门会员插件存在严重权限提升漏洞",
+    "https://mp.weixin.qq.com/s/MH3AK4QFRmO7TDlFw9RK9Q": "CVE复现 | CVE-2026-24061复现",
+    "https://mp.weixin.qq.com/s/TBl9zFDKGTZpyvbuYBlhSQ": "中国信通院2026【首批】软件供应链漏洞管理平台能力评估报名启动！"
 }
