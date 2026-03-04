@@ -16960,5 +16960,10 @@
     "https://mp.weixin.qq.com/s/EXPK6rmIUkyF-KsxiRFdww": "【高危AI漏洞预警】LLM-Claw缓冲区溢出漏洞",
     "https://mp.weixin.qq.com/s/LHxZY6wN4-GrvGcp9EMCVQ": "Tenda堆栈缓冲区溢出漏洞 (CVE-2024-2986)",
     "https://mp.weixin.qq.com/s/_9GMsNgc-_KdXl1-t-zRJQ": "谷歌披露iOS漏洞攻击套件Coruna，数千iPhone用户面临威胁",
-    "https://mp.weixin.qq.com/s/lpDNPbUlLijmFuz_WVH5PA": "青龙面板存在任意账号密码重置漏洞"
+    "https://mp.weixin.qq.com/s/lpDNPbUlLijmFuz_WVH5PA": "青龙面板存在任意账号密码重置漏洞",
+    "https://mp.weixin.qq.com/s/iIGADRYK9Qyg_SNILMBS5w": "Claude发现了500个你十年都没看见的漏洞——你引以为傲的经验，还值钱吗？",
+    "https://mp.weixin.qq.com/s/qoWLKYYGDt1ODq8N73am9g": "Chrome Gemini 漏洞可被远程利用 访问受害者摄像头和麦克风",
+    "https://mp.weixin.qq.com/s/erYYn-ybsG-gMtg8G85AOQ": "CISA：VMware Aria Operations RCE漏洞已遭利用",
+    "https://mp.weixin.qq.com/s/xKcq2Qq1yqEvJqn1U2DBRg": "Android 安全更新——修复 129 个漏洞及一个正在被利用的零日漏洞",
+    "https://mp.weixin.qq.com/s/ZtgHjwUp-LFGYi442FZa0A": "谷歌安卓更新修复已遭利用的高通 0day 漏洞"
 }
