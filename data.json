@@ -17035,5 +17035,12 @@
     "https://mp.weixin.qq.com/s/JbD43ixjfMZIywi9QnZJfg": "【EXP】Cisco Catalyst SD-WAN 身份验证绕过漏洞(CVE-2026-20127)",
     "https://mp.weixin.qq.com/s/EshGhLL7mIGcvYg94GPo7g": "【高危漏洞预警】Cisco Catalyst SD-WAN 身份验证绕过漏洞CVE-2026-20127",
     "https://mp.weixin.qq.com/s/W_Msy1NTtUy0JDWzHRB5gw": "Azure DevOps权限提升漏洞分析",
-    "https://mp.weixin.qq.com/s/DEarwnclXxu_0f7Knr3T4Q": "Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析"
+    "https://mp.weixin.qq.com/s/DEarwnclXxu_0f7Knr3T4Q": "Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/cwagi7X9W5TXkZyM1f_YWg": "漏洞复现 | Salia PLCC firmware.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/oxvSmUx_sX3uHSbw2skv3w": "【漏洞预警】青龙面板 网站管理系统 dependencies 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/OgLBXsfj7hXKo1p5Q3ahUg": "漏洞分析：Juniper Junos Evolved CVE-2026-21902 未授权远程代码执行漏洞剖析",
+    "https://mp.weixin.qq.com/s/uR5rdkaE6L40rZEKHwSNIA": "用友NC doSingUp sql注入漏洞",
+    "https://mp.weixin.qq.com/s/8jMN-5L1p0tVqxK4Xe1xKA": "这种鸟漏洞不难挖啊",
+    "https://mp.weixin.qq.com/s/aO1nKrg43rioipqXQfcTAA": "网安工具30天通（第9期）｜Nessus：企业级漏洞扫描神器，资产巡检必备",
+    "https://mp.weixin.qq.com/s/OBl5SyMLksVtxwhD8Ougug": "AC集中管理平台敏感信息泄露漏洞 附POC"
 }
