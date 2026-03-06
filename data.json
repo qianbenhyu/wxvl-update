@@ -17083,5 +17083,9 @@
     "https://mp.weixin.qq.com/s/GQ1bp5KTuYzagkq-NRoh6Q": "【安全圈】Wi-Fi 爆出史上最大安全漏洞！所有路由器无一幸免：HTTPS 加密也没用",
     "https://mp.weixin.qq.com/s/uou_PsB6hRXTeYl6Cx0vbA": "第70天-Web攻防实战：文件下载、读取与删除漏洞 & 目录遍历与穿越",
     "https://mp.weixin.qq.com/s/kL4TVLyC1iGWXbwyGOif9A": "第69天-Web攻防学习笔记：文件包含漏洞（LFI ∕ RFI ∕ 伪协议 ∕ 无文件利用）",
-    "https://mp.weixin.qq.com/s/qf_BuU4i-qqB-a_EU0blXA": "由CISA紧急通报海康威视与罗克韦尔漏洞引发的思考"
+    "https://mp.weixin.qq.com/s/qf_BuU4i-qqB-a_EU0blXA": "由CISA紧急通报海康威视与罗克韦尔漏洞引发的思考",
+    "https://mp.weixin.qq.com/s/txVjLO1aaM9jJQ5PXXVxPg": "思科修复了48个防火墙漏洞，其中两个漏洞的CVSS评级为10级",
+    "https://mp.weixin.qq.com/s/VSvP_O4x-eapULzcJISzqQ": "WordPress会员插件漏洞允许攻击者创建管理员帐户",
+    "https://mp.weixin.qq.com/s/qyPxlI_uJ09AxYYz67pKzg": "Twenty CRM 远程代码执行 | CVE-2026-26720 复现&研究",
+    "https://mp.weixin.qq.com/s/gDVWpl1DS9aBbzJarP3aFg": "深度分析：CVE-2026-21509 Microsoft Office OLE 安全功能绕过高危漏洞"
 }
