@@ -17130,5 +17130,8 @@
     "https://mp.weixin.qq.com/s/pY4HEgKGFeqwYnlkXaCOmQ": "漏洞复现 | JeeWMS iconController.do 任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/BthMPgMT0Ay-UmaR6SeWqA": "Write | RCTF2025-auth复现(含环境搭建)",
     "https://mp.weixin.qq.com/s/b2tGmTl01mgBY5xZHffZww": "获取 TP-Link Tapo C260 摄像头的 Shell (CVE-2026-0651, CVE-2026-0652, CVE-2026-0653)",
-    "https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g": "Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析"
+    "https://mp.weixin.qq.com/s/3EfRbvMoLYBbKPPsvFZF5g": "Android GPU Zero-Day 深度研究—CVE-2026-21385 内存破坏漏洞分析",
+    "https://mp.weixin.qq.com/s/OD-G9NvUA7UJn3b2XquQ7g": "Coruna：一套强大 iOS 漏洞利用工具包的神秘流转之旅",
+    "https://mp.weixin.qq.com/s/KEwenwr5hx38TTUgg2Ixww": "思科修复两大CVSS 10分Secure FMC漏洞",
+    "https://mp.weixin.qq.com/s/Mq-UEgEfR60nK13QgsDuvA": "云上的ssrf漏洞挖掘技巧"
 }
