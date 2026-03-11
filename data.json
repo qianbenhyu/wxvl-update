@@ -17260,5 +17260,18 @@
     "https://mp.weixin.qq.com/s/UYelcDU6fwyj7zOfG-0TQQ": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞",
     "https://mp.weixin.qq.com/s/Sw6hvtMN0A-0hYeMhwdLLw": "【漏洞通告】Nginx UI 信息泄露漏洞 （CVE-2026-27944）",
     "https://mp.weixin.qq.com/s/uyWL1X43l86Zy1NtcZTKWA": "一款超强上传漏洞综合测试工具 263 + WAF 绕过Payload（2026-03-09）更新",
-    "https://mp.weixin.qq.com/s/KK9KI207l8oWIGHgPub9sg": "“龙虾”安全漏洞刷屏，CNNVD提示及时确认是否受到漏洞影响，尽快采取修补措施。"
+    "https://mp.weixin.qq.com/s/KK9KI207l8oWIGHgPub9sg": "“龙虾”安全漏洞刷屏，CNNVD提示及时确认是否受到漏洞影响，尽快采取修补措施。",
+    "https://mp.weixin.qq.com/s/-PGprNnuu7ChDjjp8byHFQ": "一个字符引发的严重漏洞：CVE-2026-28292 simple-git 远程代码执行分析",
+    "https://mp.weixin.qq.com/s/kZM97wGxzUNnoSeMHSdbuw": "CVE-2026-31900：一个过于宽松的正则表达式如何在 psf∕black 的 GitHub Action 中导致 RCE",
+    "https://mp.weixin.qq.com/s/260ggT-Au68BSZblLJtVBQ": "【漏洞复现】青龙面板网站管理系统近期漏洞复现",
+    "https://mp.weixin.qq.com/s/T6q1Sn3QG7ixFus3tBXngA": "漏洞预警 | 大蚂蚁即时通讯系统任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s/vDdk0cokE9gu9D-k0yZULQ": "漏洞预警 | 东胜物流软件SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/URKpC-6Oho9qtMy2VmCXvg": "蠕虫式XMRig挖矿攻击借BYOVD漏洞规避检测",
+    "https://mp.weixin.qq.com/s/E2Z-BCP_i-um9EiCblvmaw": "凌晨3点，我的AI小龙虾自己找到了RCE",
+    "https://mp.weixin.qq.com/s/33lLVEhzCNw5Yo4sc_69Eg": "漏洞预警 | Nginx UI信息泄露漏洞",
+    "https://mp.weixin.qq.com/s/SbEWZifIVAAiOwtBw4HGsA": "通报来了 | OpenClaw多个安全漏洞被国家信息安全漏洞库（CNNVD）通报",
+    "https://mp.weixin.qq.com/s/4qTtl3eaVV2jJEkgm0FvUg": "pac4j-jwt 身份验证绕过漏洞",
+    "https://mp.weixin.qq.com/s/4zdEJza3YElCuFKZ5XrZhw": "漏洞通告 | 2026年3月微软产品漏洞通告",
+    "https://mp.weixin.qq.com/s/SOK0BUmtvpibRGE8_aofOg": "漏洞复现 | 用友NC OAUserQryServlet 反序列化代码执行RCE漏洞",
+    "https://mp.weixin.qq.com/s/qBUrqSEpHK5KJW1LKHgDhQ": "国家信息安全漏洞库（CNNVD）重要漏洞提示 | 人工智能重要安全漏洞的通报-OpenClaw多个安全漏洞"
 }
