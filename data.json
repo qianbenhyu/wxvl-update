@@ -17340,5 +17340,7 @@
     "https://mp.weixin.qq.com/s/kguemzZ2rBMUzlo-4eIVSw": "Azure AI 语言会话创作SDK反序列化漏洞：CVE-2026-21531分析与PoC",
     "https://mp.weixin.qq.com/s/fRiYVp2pBo1NqLyIEHLCPA": "DataEase CVE-2025-49002 RCE",
     "https://mp.weixin.qq.com/s/_eDX-jwUVx8x_DDJgtTp_w": "【漏洞分析】TongWeb EJB 反序列化漏洞",
-    "https://mp.weixin.qq.com/s/X5EYzcGNAEyod1S7FlRkNw": "第81天-一键登录的“后门”？OAuth 认证漏洞攻防实战解析"
+    "https://mp.weixin.qq.com/s/X5EYzcGNAEyod1S7FlRkNw": "第81天-一键登录的“后门”？OAuth 认证漏洞攻防实战解析",
+    "https://mp.weixin.qq.com/s/s4-SHWAzs_Bm2MGXqWxGlg": "华磊科技物流SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/zLrFyHMHPNPANNmreqHebQ": "“Mail2Shell”：FreeScout 零点击未认证 RCE（CVE‑2026‑28289）补丁绕过分析"
 }
