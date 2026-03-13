@@ -17435,5 +17435,7 @@
     "https://mp.weixin.qq.com/s/KhCZ0qkNIl7mPbWRzd_mXA": "漏洞速递 | CVE-2026-28466 OpenClaw小龙虾RCE漏洞（建议自查）",
     "https://mp.weixin.qq.com/s/eGIBIGvlRRzD5hqb_VYe-Q": "n8n 严重漏洞可导致RCE和存储凭据暴露",
     "https://mp.weixin.qq.com/s/_SVBWccyLKKl17kVnluF7Q": "Chrome 零日漏洞已被恶意攻击者积极利用，用于执行恶意代码",
-    "https://mp.weixin.qq.com/s/Wbgp4Oq3muPXNKCN1Kpj2w": "【已复现】泛微Ecology10存在未授权远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s/Wbgp4Oq3muPXNKCN1Kpj2w": "【已复现】泛微Ecology10存在未授权远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/Jm-w0jTDfp_Ibrn7Eaa5cg": "【高危漏洞预警】泛微Ecology10未授权远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/ni4sHQS8eoXlO0R3HdAmuA": "新手小白入门SRC漏洞信息收集分享"
 }
