@@ -17491,5 +17491,7 @@
     "https://mp.weixin.qq.com/s/0nu0J9f0pKhIINkOGeOQvQ": "谷歌修复了两个在攻击中被利用的Chrome零日漏洞",
     "https://mp.weixin.qq.com/s/uuRb5m5h4fuGdyqXN7Xzdw": "万户 ezOFFICE checkSQL_httprequest.jsp SQL注入漏洞",
     "https://mp.weixin.qq.com/s/JVZQKSAqnSMfuzo-B6zuwA": "渗透小白必看：10个实战漏洞，一学就会、一测就中",
-    "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q": "OpenClaw（龙虾）近期高危漏洞&风险大盘点！"
+    "https://mp.weixin.qq.com/s/R3G_f75biUYOC9slLqqz9Q": "OpenClaw（龙虾）近期高危漏洞&风险大盘点！",
+    "https://mp.weixin.qq.com/s/vEwhAMbP35cj4mh5-QstLQ": "工业网关惊现高危漏洞，全球逾21万台设备面临凭据失窃风险 CVE-2026-25818",
+    "https://mp.weixin.qq.com/s/FwT9gwksuumFjtZJxni0iQ": "记一次SSRF+文件上传组合拳：复盘我是如何组合漏洞一步步Getshell的"
 }
