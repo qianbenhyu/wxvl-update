@@ -17547,5 +17547,8 @@
     "https://mp.weixin.qq.com/s/Djio84K_H0NHbMT8Xuu2mQ": "【漏洞通告】Google Chromium V8 内存越界代码执行漏洞(CVE-2026-3910)",
     "https://mp.weixin.qq.com/s/axqS8Tq_4-vC8Q21eVT11A": "某火cai票娱乐城系统存在前台任意文件上传漏洞",
     "https://mp.weixin.qq.com/s/WMPLPQiqK4kogMhUq_U75A": "CVSS 10.0 严重缺陷 SandboxJS 漏洞授予完全远程代码执行权限",
-    "https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析"
+    "https://mp.weixin.qq.com/s/N7qGcpZmz_Wj34BrI3B7fg": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/5j_PvWjRUEcEqDo4o53FwA": "《一文讲透：漏洞管理》",
+    "https://mp.weixin.qq.com/s/KlhzzbKoClw3jGjw6wWt9A": "WatchVuln二开版：Web化管理漏洞情报推送(集成9大漏洞库+支持10+推送渠道)",
+    "https://mp.weixin.qq.com/s/GP0IO9UfMnwsHgNMguKfhw": "Linux AppArmor出现CrackArmor漏洞，未授权用户可提升至root权限"
 }
