@@ -17576,5 +17576,12 @@
     "https://mp.weixin.qq.com/s/xUxIpedjXyiYnSRIeUWokw": "【服务端漏洞-第六章第二节】命令注入总挖不到？那是你没搞懂这些符号的用法（附实战验证）",
     "https://mp.weixin.qq.com/s/baPljEtfg-hMtS7LAn5aCg": "实战 IoT 漏洞挖掘—小米 C400 摄像头",
     "https://mp.weixin.qq.com/s/tY7GS1oQukcLHVWZqFCLmQ": "Chrome Gemini AI组件曝高危漏洞，可劫持摄像头与麦克风",
-    "https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg": "Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行"
+    "https://mp.weixin.qq.com/s/OjwM0zz0V7TdVRKeKat0Bg": "Perfex CRM 高危漏洞分析：未授权反序列化导致远程代码执行",
+    "https://mp.weixin.qq.com/s/_HIk2H3YB1o0kY_0ZD2T9A": "安全小知识-第二十八期_白帽子挖漏洞的思维破壁",
+    "https://mp.weixin.qq.com/s/x7XTbPyq-pbLYNJR5qg9MQ": "工具分享 | Java反序列化漏洞Gadget Chain可视化图谱工具",
+    "https://mp.weixin.qq.com/s/YI_N9EUNR4-7x2ZQ9potzA": "一款专业的Web安全扫描工具 | JS敏感信息收集、API端点提取、API文档解析、页面爬取、子域名发现、漏洞测试、WAF检测与绕过、JS代码分析",
+    "https://mp.weixin.qq.com/s/Jwvt-KVDm8cC3SDa_tL1rA": "【已复现】漏洞通告 | Langflow未授权远程代码执行漏洞(CVE-2026-33017)",
+    "https://mp.weixin.qq.com/s/Hiqkttfy6hNisWR8voF0Yg": "这类漏洞危害有点低，SRC 好像不收录！",
+    "https://mp.weixin.qq.com/s/DmuvQpCwUunHsqJDjGXEgA": "任我行协同CRM系统SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/9Pjebqtix6HAp79clo1u_Q": "Omnissa apikeys 路径穿越漏洞(CVE-2025-25231)"
 }
