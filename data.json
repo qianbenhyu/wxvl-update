@@ -17807,5 +17807,10 @@
     "https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q": "Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限",
     "https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw": "CNVD漏洞周报2026年第11期",
     "https://mp.weixin.qq.com/s/4DeGMyiZynCFuPY-1vlsYw": "【漏洞预警】Litellm 2026.3.24 供应链投毒事件",
-    "https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ": "CVE-2026-23673 ReFS 越界读分析"
+    "https://mp.weixin.qq.com/s/FVmbZs3bnfvNfIYFwmAFaQ": "CVE-2026-23673 ReFS 越界读分析",
+    "https://mp.weixin.qq.com/s/6nYTOkIMBX-04rB9iiJQxg": "OpenSSH漏洞列举及防范建议",
+    "https://mp.weixin.qq.com/s/aT359r9Ym7VQvBUbG-t0sg": "命令执行：突破Shell命令过滤限制",
+    "https://mp.weixin.qq.com/s/iNSBQGCm5EwXi0MvWSvw-g": "苹果漏洞利用工具遭公开，数亿台iPhone随时可被静默入侵窃密",
+    "https://mp.weixin.qq.com/s/yZ_LVi21yVVvTewMcct3sw": "从靶场到实战--双一流高校多个高危漏洞",
+    "https://mp.weixin.qq.com/s/Bi4jWg_43padms17q26pcQ": "【高危AI漏洞预警】OpenClaw环境变量注入漏洞 (CVE-2026-22177)"
 }
