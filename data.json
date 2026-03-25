@@ -17794,5 +17794,16 @@
     "https://mp.weixin.qq.com/s/LngiSUiMMrTGrNgiDflPUw": "从目录删除到RCE：GCP Looker漏洞剖析",
     "https://mp.weixin.qq.com/s/ZebW_MeBbPNqPIGg30n69w": "泛微Ecology10未授权远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/C5TWY9B9pZ-ZQN7DXgeHkQ": "点赞漏洞",
-    "https://mp.weixin.qq.com/s/ZzfKh9I7GILKdQ7vyi-gGw": "CVE-2026-33371｜Zimbra存在XML外部实体（XXE）漏洞"
+    "https://mp.weixin.qq.com/s/ZzfKh9I7GILKdQ7vyi-gGw": "CVE-2026-33371｜Zimbra存在XML外部实体（XXE）漏洞",
+    "https://mp.weixin.qq.com/s/k7BAkFlQ4C19aZ_bXVmoHA": "苹果警告旧款iphone易受Coruna和DarkSword漏洞工具包攻击",
+    "https://mp.weixin.qq.com/s/0h_qwNtOX0PhCtdUOMahWA": "一次从代码审计到利用：Kanboard SQL注入漏洞（CVE-2026-33058）分析",
+    "https://mp.weixin.qq.com/s/Pta7hBxwT6nUrNy3UO_LaA": "深科特 LEAN MES 任意文件上传漏洞分析（从逻辑缺陷到 RCE）",
+    "https://mp.weixin.qq.com/s/jO06HSXds2LQm7B-7ZTpQw": "谷歌15年累计发放了8160万美元漏洞赏金",
+    "https://mp.weixin.qq.com/s/MOouM8QlEOg7U8YFMh7fsQ": "[被忽略的漏洞]sqli-labs之Less-29的另一种玩法",
+    "https://mp.weixin.qq.com/s/PUknAvCV5D6RnfGqb46RiQ": "BeforeDawn 漏洞管理平台 | 致敬每一个在黎明前守夜的安全人员",
+    "https://mp.weixin.qq.com/s/YLy70EnLub_ehTH_teogOg": "3月社区投稿活动 | 漏洞挖掘",
+    "https://mp.weixin.qq.com/s/pZEp5NPxMUuvrF7MvHJV-w": "大华ICC智能物联综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s/cdYEIXL0mNaqBRoIwTc81w": "深度剖析 Node.js 环境下的 SSRF 漏洞：从原理挖掘到防御体系构建",
+    "https://mp.weixin.qq.com/s/0Fe9Fp2Sr3ZMRaC_Mx3C8Q": "Interlock勒索软件利用思科FMC零日漏洞CVE-2026-20131获取Root权限",
+    "https://mp.weixin.qq.com/s/hbcmKhk_PnqPK4gb3xEEBw": "CNVD漏洞周报2026年第11期"
 }
