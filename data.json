@@ -17850,5 +17850,11 @@
     "https://mp.weixin.qq.com/s/OXt5kzGHhXpyBk1yXGSDSA": "CVE-2026-28466：OpenClaw节点调用批准绕过的RCE精解",
     "https://mp.weixin.qq.com/s/4TcTXcWzqB0owLgQ9QiwRA": "OpenClaw 近期安全漏洞修复汇总报告",
     "https://mp.weixin.qq.com/s/Jpd5tmZHv-nOpixIVXkNKQ": "丈八网安技术研究：OpenClaw远程代码执行漏洞深度复现",
-    "https://mp.weixin.qq.com/s/Wr9PMMNLDTqqT_BcLkedmg": "【漏洞通告】HCL Traveler存在信息泄露漏洞（CVE-2026-21783）"
+    "https://mp.weixin.qq.com/s/Wr9PMMNLDTqqT_BcLkedmg": "【漏洞通告】HCL Traveler存在信息泄露漏洞（CVE-2026-21783）",
+    "https://mp.weixin.qq.com/s/j7VCXJLAjKnFex9pogUz3g": "【漏洞复现】Langflow CSV Agent 任意代码执行（CVE-2026-27966）",
+    "https://mp.weixin.qq.com/s/VrbuihpsTm-KIvZfw-0dLg": "漏洞预警 | LEAN MES系统SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/orMOHdDVMko29TMaGB9nxA": "SourceInsight4.0 最新4.00.0150 2026版本 破解分析",
+    "https://mp.weixin.qq.com/s/Dt0y3O09kCBEiAX3tuKlpg": "漏洞预警 | Langflow远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/Mq5QbqtIs8HUv66Zh5ya_Q": "一张图片 = 拿下网站？文件上传漏洞深度解析",
+    "https://mp.weixin.qq.com/s/KCnE2dubNtqqbyduSud_DA": "私有内容IDOR漏洞"
 }
