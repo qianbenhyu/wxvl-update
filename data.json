@@ -18004,5 +18004,9 @@
     "https://mp.weixin.qq.com/s/7pfSd1RZkB6ZEpchDnCgPg": "Nginx-UI备份漏洞可篡改加密配置，攻击者能注入恶意代码完全控制系统",
     "https://mp.weixin.qq.com/s/7yWR6bqfoaM-gZs1fyCjAQ": "Vim 高危 RCE 漏洞预警：打开文件即执行任意命令（CVE-2026-34714）",
     "https://mp.weixin.qq.com/s/IbQPtCrjUILRzl88R0KjGg": "Vertex AI 漏洞暴露谷歌云数据和非公开制品",
-    "https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982"
+    "https://mp.weixin.qq.com/s/gPB798-neMvv-AsO21JiIg": "【高危漏洞预警】Vim代码执行漏洞CVE-2026-34982",
+    "https://mp.weixin.qq.com/s/7xvF8PsPGCEZMRPm4W8V-Q": "[漏洞播报]你的电脑主板也在变的不安全，技嘉控制中心曝9.2分高危漏洞",
+    "https://mp.weixin.qq.com/s/ho2ScK7cCBbPWGEAyhZmeQ": "Claude Code 30分钟挖出Vim用了三十年的0Day，收到陌生文件先别急着打开",
+    "https://mp.weixin.qq.com/s/jjN4GtZjaxNhqnIf9f6WTg": "Cisco IMC 存在严重漏洞，攻击者可绕过身份验证",
+    "https://mp.weixin.qq.com/s/KIdRHmMcRrOMjBs4-_V6mQ": "赛门铁克DLP代理漏洞允许攻击者提升权限"
 }
