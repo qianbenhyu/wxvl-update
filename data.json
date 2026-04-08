@@ -18157,5 +18157,8 @@
     "https://mp.weixin.qq.com/s/4SbRrtlHO_k9z6m9fe9RLg": "Anthropic的Claude Mythos在主要系统中发现了数千个0day",
     "https://mp.weixin.qq.com/s/m_G7JWMM5zxhx8EB0WA4iw": "OpenBSD黑客回应Anthropic发现的漏洞，“往事重现，令人不安”",
     "https://mp.weixin.qq.com/s/JAHknlm0Vg6xu_0Be-zd4A": "【支付漏洞】金额溢出导致的0元购-网络安全",
-    "https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg": "【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）"
+    "https://mp.weixin.qq.com/s/9oe5k0mR7mkBzFacKzRcdg": "【已复现】OpenAM 预认证反序列化远程代码执行漏洞（CVE-2026-33439）",
+    "https://mp.weixin.qq.com/s/F_iCsZVqUvoTnC4zhB8Y7Q": "【高危漏洞预警】Apache ActiveMQ远程代码执行漏洞(CVE-2026-34197)",
+    "https://mp.weixin.qq.com/s/1244Ya5UrHHuWAs6KXnw2g": "J.a.k.o.b -如何更好的进行漏洞和**研究？",
+    "https://mp.weixin.qq.com/s/r5C-C2E0OZZci8BwAQICPw": "【高危漏洞预警】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)"
 }
