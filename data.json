@@ -18181,5 +18181,9 @@
     "https://mp.weixin.qq.com/s/XxAAwg6vI0FiaFpC1-83ng": "2026 年高危漏洞 TOP10 盘点与修复实战指南",
     "https://mp.weixin.qq.com/s/k_5PrW1KV1pCdGg9cGgIQQ": "【漏洞通告】Code Extension Marketplace存在目录遍历漏洞(CVE-2026-35454)",
     "https://mp.weixin.qq.com/s/EF1FgSMD2GnrxFUbTg87ZQ": "【漏洞通告】goshs存在目录遍历漏洞(CVE-2026-35471)",
-    "https://mp.weixin.qq.com/s/R8jBUcbp2NIJ7cZm4LE-Hg": "【成功复现】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)"
+    "https://mp.weixin.qq.com/s/R8jBUcbp2NIJ7cZm4LE-Hg": "【成功复现】Vite WebSocket任意文件读取漏洞(CVE-2026-39363)",
+    "https://mp.weixin.qq.com/s/K0ZLejy8jTW9PGXKbsMt0Q": "【漏洞通告】Vite Dev Server WebSocket 任意文件读取漏洞(CVE-2026-39363)",
+    "https://mp.weixin.qq.com/s/JTqZMKwLI1a3slzKqC-Kcw": "Claude Mythos 模型：已发现数千零日漏洞，还能自己逃离沙箱",
+    "https://mp.weixin.qq.com/s/8YQq5LvZMRev-1atVQfW3w": "【已复现】Claude Mythos最新发现的Linux内核0day漏洞",
+    "https://mp.weixin.qq.com/s/nalcvjCOaT3h_WMEwOSGfQ": "关于漏洞学习的一些反思"
 }
