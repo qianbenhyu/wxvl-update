@@ -18317,5 +18317,8 @@
     "https://mp.weixin.qq.com/s/fPp2xRmsS--Tg3JXgCk5Cw": "漏洞复现 | 畅捷通-畅捷CRM getsort 存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s/qErGX3N0zDLbTS2lrzBBEw": "代码审计 一次SQL注入漏洞挖掘",
     "https://mp.weixin.qq.com/s/RgqSevlBOIK-R3tLhqclow": "第八期漏洞挖掘培训，不是“教过就行”，而是实打实“带会”",
-    "https://mp.weixin.qq.com/s/xIYctO7IF1zAd2PcjLVFsQ": "【高危漏洞预警】Nginx ngx_http_dav_module堆缓冲区溢出漏洞(CVE-2026-27654)"
+    "https://mp.weixin.qq.com/s/xIYctO7IF1zAd2PcjLVFsQ": "【高危漏洞预警】Nginx ngx_http_dav_module堆缓冲区溢出漏洞(CVE-2026-27654)",
+    "https://mp.weixin.qq.com/s/okqH_AOcJ3sJtvOnvkwYBw": "“Jenny是我的朋友”——用MCP打造我的AI漏洞猎人",
+    "https://mp.weixin.qq.com/s/8tTy8b2cbOnjEXVDDAfMpw": "Axios爆SSRF漏洞，特定条件下可导致RCE",
+    "https://mp.weixin.qq.com/s/8c7UtgaRyWzEEmbEG4A3AA": "[漏洞复现]某华ICC智能物联综合管理平台存在SQL注入漏洞"
 }
