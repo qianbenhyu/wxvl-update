@@ -18515,5 +18515,6 @@
     "https://mp.weixin.qq.com/s/4pIqUfkKTsQcA7-wPOBB-w": "上周关注度较高的产品安全漏洞(20260413-20260419)",
     "https://mp.weixin.qq.com/s/khZpLjWwIB1FvM4jZ_YM8w": "攻击者可利用的FortiSandbox漏洞PoC公开，可执行任意命令",
     "https://mp.weixin.qq.com/s/-rhWYG9xG6N_6e7XbmyeCA": "NIST放弃全面分析CVE，转向优先处理高危漏洞",
-    "https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw": "【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级"
+    "https://mp.weixin.qq.com/s/tK8otlHSvrMtURZB_05nsw": "【安全圈】因漏洞数量激增，NIST 将停止评估非优先级漏洞评级",
+    "https://mp.weixin.qq.com/s/OoRfZLH7Cp_wFOsPTqdT7w": "Flowise 中存在严重漏洞，可通过 MCP 适配器执行远程命令"
 }
