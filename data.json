@@ -18573,5 +18573,7 @@
     "https://mp.weixin.qq.com/s/HDeCUeyOVIzmIGVRqy0USQ": "CVE-2026-33032：可实现Nginx服务器完全控制",
     "https://mp.weixin.qq.com/s/1Qmib_ZpABb1LfkoRDDWAA": "信息安全漏洞周报（2026年第16期）",
     "https://mp.weixin.qq.com/s/MBRlWWOMBp0uUpjuBeRcpg": "【利用已复现】一个“!”引发的“血案”（Linux Kernel NF_TABLES模块提权漏洞）",
-    "https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg": "DudeSuite 漏洞播报 全网漏洞早知道【20260422】"
+    "https://mp.weixin.qq.com/s/pQcuJDr8dn_W6Tb-YPGOtg": "DudeSuite 漏洞播报 全网漏洞早知道【20260422】",
+    "https://mp.weixin.qq.com/s/ZO0rr89UPJI_pJJDgfA9hA": "【漏洞复现】Flowise 中通过 MCP 适配器实现远程代码执行漏洞（CVE-2026-40933）",
+    "https://mp.weixin.qq.com/s/Wu7rc0oazqKfg2utBOj5PQ": "【扩充版】“任意用户漏洞”全景手册 20+ 实战案例"
 }
