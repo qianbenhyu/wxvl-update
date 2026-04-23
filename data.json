@@ -18629,5 +18629,8 @@
     "https://mp.weixin.qq.com/s/3PSBLswSHOYb4traQqw4Fg": "360漏洞云关于AI生成漏洞报告的处置公告",
     "https://mp.weixin.qq.com/s/CE2Bwu3NQUOldJqFY4K9gA": "Pack2TheRoot 的关键漏洞允许攻击者获得 Root 权限或攻破系统",
     "https://mp.weixin.qq.com/s/2F0PSxubSi3kKWAkKkAMbQ": "常见系统漏洞分析",
-    "https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ": "理想汽车SRC关于AI生成漏洞报告的处置公告"
+    "https://mp.weixin.qq.com/s/Tb5_9TR-TWm96pGOVMyWbQ": "理想汽车SRC关于AI生成漏洞报告的处置公告",
+    "https://mp.weixin.qq.com/s/LRjrEUoutKGQDj2loGBzxw": "全程云OA download.ashx接口存在任意文件读取漏洞 附POC",
+    "https://mp.weixin.qq.com/s/7q46MgR4mOjZtprymtOpoA": "小红书SRC发布《AI生成漏洞报告提交规范》",
+    "https://mp.weixin.qq.com/s/CZmoztuvC2mYssA2VVtWgg": "edu漏洞之若依nday漏洞复现(一)"
 }
