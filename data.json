@@ -18777,5 +18777,11 @@
     "https://mp.weixin.qq.com/s/W446pdxEzlFNJgAa4zfzqw": "Pipecat 语音代理可遭严重 RCE 漏洞利用劫持",
     "https://mp.weixin.qq.com/s/Z_vob01EPshW17OWrACA2Q": "奇安信SRC 关于AI生成漏洞报告的处置公告",
     "https://mp.weixin.qq.com/s/_8P7LXulq1k94qo11xzYdQ": "PhantomCore 利用 TrueConf 漏洞入侵俄罗斯网络",
-    "https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw": "【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159"
+    "https://mp.weixin.qq.com/s/A7x_ldeAz2kEajkc914cdw": "【高危漏洞预警】llama.cpp无认证远程代码执行漏洞CVE-2026-34159",
+    "https://mp.weixin.qq.com/s/k10RyA8TGLrtO4tTa0vlGw": "cPanel被曝惊天高危漏洞，千万级服务器面临“裸奔”，官方紧急发布补丁！",
+    "https://mp.weixin.qq.com/s/igdNc0iIhwoStLeSDGHyMQ": "【论文速读】| 面向高成本效益代码漏洞检测的策略型异构多智能体架构",
+    "https://mp.weixin.qq.com/s/6U0s1g5xg97_PmmIEJUhTw": "Java“幽灵比特位” 漏洞原理+复现+工具地址(Ghost Bits(幽灵比特)详细分析手册)",
+    "https://mp.weixin.qq.com/s/pli4tkFqDG7koTd2GennMA": "突发！一条命令 github.com 被黑！RCE Made By AI！",
+    "https://mp.weixin.qq.com/s/zaDOEbZr9XwJFTFg9RN0pg": "Bonitasoft 认证绕过及RCE漏洞分析及复现",
+    "https://mp.weixin.qq.com/s/uKFJQnQ21x_42dzDrVTHAA": "CVE-2024-38812 深度分析：从堆风水到远程代码执行"
 }
