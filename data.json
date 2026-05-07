@@ -19058,5 +19058,18 @@
     "https://mp.weixin.qq.com/s/Ovtfxh_RlVJUmrWdgfrZ1g": "LFI 到 RCE：使用 PHP 包装器将文件读取转换为代码执行",
     "https://mp.weixin.qq.com/s/RsHUuVUl6SWaOAgrj2wPzw": "26长城杯半决赛IntraBadge复现",
     "https://mp.weixin.qq.com/s/-FRSiQKaIalflj2aYpBfZQ": "利用存在漏洞的驱动程序 BYOVD 获取任意内核读∕写权限并绕过 PPL 保护",
-    "https://mp.weixin.qq.com/s/uaZvi2xw2PJksRlLNfrjnQ": "助阵国家级AI漏洞库启动：塞讯科技发布 Langflow 高危漏洞专项研判与复现报告"
+    "https://mp.weixin.qq.com/s/uaZvi2xw2PJksRlLNfrjnQ": "助阵国家级AI漏洞库启动：塞讯科技发布 Langflow 高危漏洞专项研判与复现报告",
+    "https://mp.weixin.qq.com/s/C4LBlY5nBO3GXmG9blLyJw": "我在 30 行 Python 里拿到 LiteLLM 的 root：CVE-2026-30623 实战 + 加固",
+    "https://mp.weixin.qq.com/s/QGe2pCwAFWzjsnrqsYe-iw": "《2025∕2026网络安全漏洞调查（教育机构）》报告概况",
+    "https://mp.weixin.qq.com/s/ByBNOiOmAreFGgohkopXFw": "【已复现】Apache HTTP Server 双重释放漏洞(CVE-2026-23918)安全风险通告",
+    "https://mp.weixin.qq.com/s/QZeZEgJpfixnzFgeV3OF1g": "Redis安全漏洞使服务器面临远程代码执行风险",
+    "https://mp.weixin.qq.com/s/odYzQtIw0mtcm5GNo00U-Q": "cPanel漏洞引发Sorry勒索软件供应链攻击，我们看到了什么？",
+    "https://mp.weixin.qq.com/s/Zlaq3dtlQWGrEliano4yeQ": "CVE-2026-0073 漏洞分析报告",
+    "https://mp.weixin.qq.com/s/EOCDLZ_n7_QcvOjxkCEtAA": "java幽灵比特位(Ghost Bits)漏洞相关测试工具推荐",
+    "https://mp.weixin.qq.com/s/TIANdxyezsJNWFl2QPiamQ": "vm2 沙箱严重漏洞可导致在宿主机执行代码",
+    "https://mp.weixin.qq.com/s/1HShyQamhg-gCo_8M-k6eg": "Linux提权漏洞席卷全球，奇安信椒图发布热补丁、无需重启即可拦截",
+    "https://mp.weixin.qq.com/s/qIRUkNmJj7ZY7fRK4q27jQ": "22岁开发者逆天复现Claude Mythos！GitHub狂揽1.1万Star，CTF挑战成功率73%",
+    "https://mp.weixin.qq.com/s/zjD5hHNaNMQvn_Nnj5X2ag": "谷歌Chrome浏览器发布148版本，修复了127个安全漏洞",
+    "https://mp.weixin.qq.com/s/80l-1CKkG3X_fQnoYGDs-w": "CVE-2026-42231 漏洞分析报告",
+    "https://mp.weixin.qq.com/s/L3-qQ9PyEz094ffMSVN1Hw": "Apache HTTP∕2 严重漏洞可导致 DoS 和 RCE"
 }
