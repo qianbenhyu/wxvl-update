@@ -19137,5 +19137,8 @@
     "https://mp.weixin.qq.com/s/OVq7H4MiUBckIG_bHSDdEw": "【已复现】Linux Kernel Dirty Frag 本地权限提升漏洞",
     "https://mp.weixin.qq.com/s/NhDh5d8A4GWYKv-l8JEFrg": "【安全圈】思科修复高危漏洞，防范 SSRF 与代码执行攻击",
     "https://mp.weixin.qq.com/s/-ymJXhndZOlGwhZ1pMawkQ": "征求意见稿丨国家标准《网络安全技术 网络安全漏洞分类分级指南》，附下载",
-    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解"
+    "https://mp.weixin.qq.com/s/12IovyzpSpSS3WFmsJw-PQ": "4 个字节，9 年技术债：CVE-2026-31431 ∕ Copy Fail 完整拆解",
+    "https://mp.weixin.qq.com/s/qVYvfo0WHJ6RS3QUgX9mlQ": "攻防、SRC必备插件 | 前端资产采集、嗅探、指纹扫描、泄露扫描、漏洞审计与 Vue Router 分析",
+    "https://mp.weixin.qq.com/s/JlczL70XFc28sWUKjjEDqg": "Blinko < 1.8.4 路径遍历漏洞存在任意文件读取漏洞CVE-2026-23482 附POC",
+    "https://mp.weixin.qq.com/s/iXD6k9US4xyMI8FQ5qcgvg": "如何使用MCP进行自动化漏洞挖掘"
 }
