@@ -19272,5 +19272,11 @@
     "https://mp.weixin.qq.com/s/MY9lKTgrp9GgA7I51AZwMA": "漏洞预警 | cPanel&WHM身份认证绕过漏洞",
     "https://mp.weixin.qq.com/s/lypdJtXadPbZRdzgeINvYw": "GreenPlasma Windows CTFMON 任意创建节提升权限漏洞",
     "https://mp.weixin.qq.com/s/55tohPDy_de00jh6Xe5LSA": "CVE-2026-43948 None != None 为 False：一个让授权守卫静默失效的 Python 陷阱",
-    "https://mp.weixin.qq.com/s/1Nep-sTJLyYJCXO3rL6zEw": "漏洞预警 | 孚盟云SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/1Nep-sTJLyYJCXO3rL6zEw": "漏洞预警 | 孚盟云SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/7aevIEJhok9Xc--Q_wA8-Q": "山石安全能力中心｜微软2026年5月份漏洞补丁日安全通告",
+    "https://mp.weixin.qq.com/s/6GBUGydmKah9fqoj_ZyKgg": "漫谈AI安全：当传统漏洞遇上AI——618个漏洞背后的聚类真相",
+    "https://mp.weixin.qq.com/s/CyecOf2VQmC3sJ1_UX2JnQ": "【梆梆安全监测】安全隐私合规监管趋势及漏洞风险报告（0420-0503）",
+    "https://mp.weixin.qq.com/s/vH73mThC-iYNyD4k4AmRLQ": "又一次挖 SRC 漏洞，我赚了 1000 元（附逻辑漏洞完整报告模板）",
+    "https://mp.weixin.qq.com/s/lZhiWbxa2avLPWeb9VMTjA": "十亿量级IoT设备面临威胁：arduino-esp32 VLA栈溢出漏洞（CVE-2026-42854）技术分析",
+    "https://mp.weixin.qq.com/s/JMLZFRm6ssIpBlTR9Uy4ng": "抖音专测享3倍积分！重大漏洞奖励20万元！"
 }
