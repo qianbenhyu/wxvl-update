@@ -19385,5 +19385,13 @@
     "https://mp.weixin.qq.com/s/me40O_2lRabfwNWmT1_HgA": "Linux 内核漏洞 Fragnesia 可被利用实现本地 root 提权攻击",
     "https://mp.weixin.qq.com/s/1pEnZhxzFUjAY8bWj4Zhbw": "AI渗透工具 Kali & HexStrike 大量RCE 0day漏洞",
     "https://mp.weixin.qq.com/s/3nt_kHvQqHDO9E_2YKrgGg": "Chrome沙箱中也能利用，Windows 内核特权提升漏洞（CVE-2026-40369）",
-    "https://mp.weixin.qq.com/s/eAG0u5SFs6Bon_wt0OL_BA": "web安全之多端点条件竞争漏洞"
+    "https://mp.weixin.qq.com/s/eAG0u5SFs6Bon_wt0OL_BA": "web安全之多端点条件竞争漏洞",
+    "https://mp.weixin.qq.com/s/a0VH9NHrucR7MDvgLPVp8Q": "【漏洞通告】Nginx ngx_http_rewrite_module 缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/Ov5oKKQ1b8UCqYd39v_w8w": "【漏洞通告】Palo Alto Networks PAN-OS身份绕过认证漏洞（CVE-2026-0265）",
+    "https://mp.weixin.qq.com/s/jI4hCcuQWPqcm8IDslVQ0g": "实战逻辑漏洞（短信横向）利用",
+    "https://mp.weixin.qq.com/s/76y61eknc6G-oD9Qalm0wg": "282G教程放送！2026网络安全资料最全合集（从0到挖漏洞、打CTF、护网、就业）",
+    "https://mp.weixin.qq.com/s/r2FHhy43tRYoZlBt9OYgcw": "【漏洞通告】Linux Kernel Fragnesia 权限提升漏洞(CVE-2026-46300)",
+    "https://mp.weixin.qq.com/s/rrw4VgmXqxMZgUf8WBzFFw": "一个月内第三起！Linux内核再曝Fragnesia高危漏洞",
+    "https://mp.weixin.qq.com/s/XreczO_mTaQmUlrBUFr9vw": "Windows DNS客户端漏洞可导致远程代码执行攻击",
+    "https://mp.weixin.qq.com/s/8_gNFJoziWjWjkhD_KGESQ": "Anthropic Mythos AI再出手，发现可绕过苹果安全机制的macOS漏洞"
 }
