@@ -19344,5 +19344,20 @@
     "https://mp.weixin.qq.com/s/XNh9mBd7nbPpyZdrwtaMdA": "NGINX Rift：利用18年前的漏洞实现NGINX远程代码执行（CVE-2026-42945）",
     "https://mp.weixin.qq.com/s/yB6xDRqOxOVBojIQ0heBbQ": "Dirty Frag 漏洞曝光！影响所有主流 Linux 发行版",
     "https://mp.weixin.qq.com/s/aa3dru8viVfzXNaTzVlZyA": "【高危漏洞预警】NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
-    "https://mp.weixin.qq.com/s/HEVTlkM3r7yBC80eRfJB8A": "【已复现】漏洞通告 | NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)"
+    "https://mp.weixin.qq.com/s/HEVTlkM3r7yBC80eRfJB8A": "【已复现】漏洞通告 | NGINX ngx_http_rewrite_module堆缓冲区溢出漏洞(CVE-2026-42945)",
+    "https://mp.weixin.qq.com/s/Z5bL9bRj-C1ltheUCPtLwQ": "【已复现】Linux内核Fragnesia权限提升漏洞（CVE-2026-46300）",
+    "https://mp.weixin.qq.com/s/HzDqxxqI24YxLVY-JiQ7Pw": "谷歌首次发现基于AI的0Day漏洞利用",
+    "https://mp.weixin.qq.com/s/jO2KhtHCL8JRE4WIBYaI_Q": "CVE-2026-42945-NGINX-ngx_http_rewrite_module-堆缓冲区溢出分析报告",
+    "https://mp.weixin.qq.com/s/J3MO2FSBKxD--JkK4EG5wA": "VSCode Copilot聊天中的远程代码执行",
+    "https://mp.weixin.qq.com/s/rF7Ho-CHeRmBcBygTCIilA": "Android零点击漏洞PoC公开，攻击者可远程获取Shell权限",
+    "https://mp.weixin.qq.com/s/GugzE78-TsFkLO7_YbO_ig": "NGINX 模块堆缓冲区溢出漏洞，特定条件下可 RCE",
+    "https://mp.weixin.qq.com/s/xIAxOnoHt1ZUk5xM_y8ZdA": "CNNVD | 关于微软多个安全漏洞的通报",
+    "https://mp.weixin.qq.com/s/OnXI-rDV3sgZPW2qgLvLIw": "【安全圈】研究人员公布概念验证，利用 Windows BitLocker 零日漏洞可访问受保护驱动器",
+    "https://mp.weixin.qq.com/s/Z-hV8A4XQ0G5OoN1ptEsNw": "18年积弊：NGINX脚本引擎堆缓冲区溢出可致远程代码执行",
+    "https://mp.weixin.qq.com/s/3eRqRxiI9zVAc-irKZEThQ": "漏洞预警 | Copy Failh和Dirty Frag的好兄弟fragnesia来了",
+    "https://mp.weixin.qq.com/s/vO4Doq0VioQlbVQ0xRjHuA": "【安全圈】微软警告“ Dirty Frag ” Linux 内核漏洞已遭黑客利用",
+    "https://mp.weixin.qq.com/s/vgdZuggfifXPjY3XQNdHYQ": "CVE-2026-8181-Burst Statistics-身份验证绕过漏洞分析报告",
+    "https://mp.weixin.qq.com/s/mCYZZlLjzmGg57_B2MgU0g": "当异常绕过handleException：最新VM2沙箱绕过 CVE-2026-45411 原理分析",
+    "https://mp.weixin.qq.com/s/s4fizQHJgSEMm2p-g0UEwg": "NGINX 漏洞预警：18 年老洞可 RCE，PoC 已公开",
+    "https://mp.weixin.qq.com/s/NE3xOJYmcR1zwadeR62FnA": "AI Agent渗透测试必备：结构化知识库和方法论（200+技能、600+漏洞）"
 }
