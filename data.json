@@ -19967,5 +19967,6 @@
     "https://mp.weixin.qq.com/s/s-zmVtTIsXPSsgu973fyrg": "Github上有大哥公开多个0day PoC",
     "https://mp.weixin.qq.com/s/_awDBmo5hdsBrmpsCZkWaQ": "【深度技术解析】objdump DLX 后端 Out-of-Bounds 写入导致的本地 ACE PoC 详解",
     "https://mp.weixin.qq.com/s/czp0n7Dx3n5STdj2tZQz9g": "Amazon 的AI编程助手高危漏洞可导致代码执行和敏感云环境访问",
-    "https://mp.weixin.qq.com/s/n0_vQovyEs0cPGTG0MRKPA": "2026攻防演练必修高危漏洞集合（2.0版）"
+    "https://mp.weixin.qq.com/s/n0_vQovyEs0cPGTG0MRKPA": "2026攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s/5N6vkJckrlk8XLmAYvE0qA": "攻击面管理系统｜AI 驱动资产测绘 + 万条 Nuclei 漏洞库，自动生成漏洞 EXP，内网公网一键扫描利用"
 }
