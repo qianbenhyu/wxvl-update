@@ -19998,5 +19998,12 @@
     "https://mp.weixin.qq.com/s/haW9Lh9mMHRD-y9n_rAiUg": "全栈安全工程师实录：自产→自测→自修→自验，高危漏洞闭环全流程",
     "https://mp.weixin.qq.com/s/9YbLciU3MBURETqAd5Uc3Q": "提权验证一键搞定：全面集成的内核漏洞测试工具 RootHawkX",
     "https://mp.weixin.qq.com/s/NmqWMF5ALKzk9UJ0kq0D-A": "【已支持检测】预认证即可利用！Kemp LoadMaster 堆内存缺陷导致命令注入远程代码执行漏洞（CVE-2026-8037）",
-    "https://mp.weixin.qq.com/s/IdViLpiWmrSNgSSabjGI6A": "2026攻防演练必修高危漏洞集合（2.0版）"
+    "https://mp.weixin.qq.com/s/IdViLpiWmrSNgSSabjGI6A": "2026攻防演练必修高危漏洞集合（2.0版）",
+    "https://mp.weixin.qq.com/s/rsp2Iyk7e63iyZP9dqVGIg": "Oracle E-Business Suite 漏洞 CVE-2026-46817 已被积极利用",
+    "https://mp.weixin.qq.com/s/LUbinjXR0NLTUxkU8Tg_vw": "AI赋能挖掘&&某小程序任意用户登录漏洞",
+    "https://mp.weixin.qq.com/s/lzI98GqfRXjXh2_XDtiViw": "Evoke Systems 充电站管理系统存在四个严重漏洞，劫持活动会话干扰充电运营",
+    "https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA": "AirDrop 和快速分享的漏洞使附近的攻击者能够触发崩溃并绕过检查",
+    "https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w": "日产：在职离职员工数据遭泄露与 Oracle 0day 攻击有关",
+    "https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ": "苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞",
+    "https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ": "【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告"
 }
