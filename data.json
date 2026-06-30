@@ -20005,5 +20005,7 @@
     "https://mp.weixin.qq.com/s/Pg3K6_-GO45Nw1Dk1qXRvA": "AirDrop 和快速分享的漏洞使附近的攻击者能够触发崩溃并绕过检查",
     "https://mp.weixin.qq.com/s/HpSbxmxh3Az9tDhb9V5a6w": "日产：在职离职员工数据遭泄露与 Oracle 0day 攻击有关",
     "https://mp.weixin.qq.com/s/HpkT_rS83TVLNvAm1yZyHQ": "苹果修复了iOS、macOS和Safari的30多个漏洞，其中包括人工智能发现的WebKit漏洞",
-    "https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ": "【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告"
+    "https://mp.weixin.qq.com/s/oTc4AvyPidJ_OWYopLEzDQ": "【CVE-2026-22078】关于O+互联未对IPC通道进行身份校验导致本地提权漏洞的致谢公告",
+    "https://mp.weixin.qq.com/s/xafOq2_btzgEL-cxht5haQ": "新版App应用漏洞扫描，企业级移动安全合规利器，多维检测隐私泄露、权限滥用、高危API调用等常见APP安全隐患",
+    "https://mp.weixin.qq.com/s/3Jn1y65JhrygfAu5nOGqgw": "【高危漏洞预警】CVE-2026-52813｜Gogs路径遍历+Git钩子组合RCE"
 }
