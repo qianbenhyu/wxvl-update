@@ -20148,5 +20148,10 @@
     "https://mp.weixin.qq.com/s/2J4RL71EPGPWjsg9axZpyA": "FatFs 存在七处漏洞，物联网与嵌入式设备面临安全风险",
     "https://mp.weixin.qq.com/s/gqsNt22hFQsdHNBnzRrweQ": "DirtyClone：Linux内核 DirtyFrag 漏洞家族新变种分析与利用（CVE-2026-43503）",
     "https://mp.weixin.qq.com/s/bWlXwbZGNzjLy6ZpsEkyhQ": "ARL-Next（灯塔资产侦察）自动化资产侦察与漏洞监控平台现代化重构版本",
-    "https://mp.weixin.qq.com/s/81Hus3Fc1dsnedVfk5J6AA": "CVE-2026-40138 与 CVE-2026-40139：BeyondTrust 未经身份验证漏洞（CVSS 评分 9.2）"
+    "https://mp.weixin.qq.com/s/81Hus3Fc1dsnedVfk5J6AA": "CVE-2026-40138 与 CVE-2026-40139：BeyondTrust 未经身份验证漏洞（CVSS 评分 9.2）",
+    "https://mp.weixin.qq.com/s/Y5GARwtAlpPViAqYjO40iQ": "一个潜伏16年的KVM漏洞，如何让虚拟机「越狱」",
+    "https://mp.weixin.qq.com/s/42w7SwtURg97zUnpn2mrxQ": "最新 Linux 内核提权漏洞，获得八万美金，潜伏 19 年+",
+    "https://mp.weixin.qq.com/s/f2PM2yDQhOxsZChjGdwGrg": "《RCE 拾遗》 | 一篇不起眼的技术汇编",
+    "https://mp.weixin.qq.com/s/nXuCJoG7ulb4_KSsmlyiiA": "ColdFusion 高危漏洞被利用：老牌 Web 平台，不能再靠“低调运行”避险",
+    "https://mp.weixin.qq.com/s/Yy_snYvM81v1Vpw81ljMVQ": "AI 大幅拉低漏洞挖掘门槛，开源安全守夜人该如何突围？"
 }
