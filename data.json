@@ -20308,5 +20308,6 @@
     "https://mp.weixin.qq.com/s/1n8RZtRK8p51VyUdPDt8-Q": "Windows HTTP.sys 整数溢出漏洞(CVE-2026-47291)",
     "https://mp.weixin.qq.com/s/81skvRTYVKysNO_n32UKfQ": "黑名单不是防火墙 六边形靶场 RCE 中篇：disable_functions、分隔符、空格绕过",
     "https://mp.weixin.qq.com/s/ab5lAthSUHY5HsvfJkSYZQ": "【高危AI漏洞预警】n8n令牌验证绕过漏洞(CVE-2026-59208)",
-    "https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA": "ServiceNow 严重漏洞导致远程攻击者执行恶意代码"
+    "https://mp.weixin.qq.com/s/FiX2Pwt2f90bbapLGN6tUA": "ServiceNow 严重漏洞导致远程攻击者执行恶意代码",
+    "https://mp.weixin.qq.com/s/MTgI75rQ-RcxMywnDT5yWA": "评论 | 堵住“仅退款”规则漏洞"
 }
