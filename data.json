@@ -20555,5 +20555,6 @@
     "https://mp.weixin.qq.com/s/AngwtKu2qZ04-tLfMnlZGQ": "【漏洞通告】Proxmox VE身份认证绕过漏洞",
     "https://mp.weixin.qq.com/s/pnUGEgjLrCCuJ5UnqIn3Zg": "【漏洞复现】JeecgBoot 积木报表远程代码执行漏洞",
     "https://mp.weixin.qq.com/s/FGGb9RtQ4efQspzHvcLPqw": "【漏洞通告】Windows HTTP.sys 特权提升漏洞(CVE-2026-62735)",
-    "https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA": "【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768）"
+    "https://mp.weixin.qq.com/s/8_UkfV7G6-mDubFPX-7OCA": "【热点安全风险】9月3日 | Langflow 漏洞遭利用，攻击者瞄准 AI 开发平台（CVE-2026-0768）",
+    "https://mp.weixin.qq.com/s/9kUs7I3bOSwtVloaaSyyQg": "【漏洞预警】Linux三年前补上的洞，又一次被挖开了"
 }
