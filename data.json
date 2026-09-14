@@ -20676,5 +20676,8 @@
     "https://mp.weixin.qq.com/s/bUnia_c25Pz72w1AkqRaZA": "CVE-2026-67276 | RouterOS SSH公钥认证绕过漏洞（POC）",
     "https://mp.weixin.qq.com/s/p9As2jhdwPhJYhvxsDsidw": "SRC漏洞挖掘器 -- SRCTOOLS",
     "https://mp.weixin.qq.com/s/6RARlyW91vhFUTioivxaTQ": "Plesk 备份管理器两项漏洞直指 root：低权限账号也可能掀开整台服务器",
-    "https://mp.weixin.qq.com/s/Zf77r2kyZ1xEUkYT4efb4A": "CVE-2026-88062（CVSS 9.5）：OmniRoute远程代码执行漏洞PoC已公开"
+    "https://mp.weixin.qq.com/s/Zf77r2kyZ1xEUkYT4efb4A": "CVE-2026-88062（CVSS 9.5）：OmniRoute远程代码执行漏洞PoC已公开",
+    "https://mp.weixin.qq.com/s/oDP5XJ4KXyqjiOMM12XV4w": "VulnHunter 正式开源！AI 漏洞挖掘平台，重塑代码审计工作流",
+    "https://mp.weixin.qq.com/s/u2zemJyjxXBKOHwdcagcIA": "关于LYSRC暂停接收漏洞公告",
+    "https://mp.weixin.qq.com/s/RMXhuL_YettDO47vo6xhKg": "(9.9分) CVE-2026-90605：Totolink路由器formFilter缓冲区溢出"
 }
