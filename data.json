@@ -21239,5 +21239,6 @@
     "https://mp.weixin.qq.com/s/BEsdGTHPn7SDM1c1zSKxJQ": "新华三H3C网关-安全设备sslvpn_client.php存在远程命令执行漏洞",
     "https://mp.weixin.qq.com/s/rnmkDGbbROYCBkZuWvdQcg": "自主漏洞发现与利用生成",
     "https://mp.weixin.qq.com/s/pXkmblBE0cENUmCi9lM0oA": "Fortinet FortiMail 0Day漏洞已遭在野利用",
-    "https://mp.weixin.qq.com/s/IOC2sSlS3dce3Ne-U9GAAQ": "Google内部AI安全Agent发现并实证500+XSS漏洞"
+    "https://mp.weixin.qq.com/s/IOC2sSlS3dce3Ne-U9GAAQ": "Google内部AI安全Agent发现并实证500+XSS漏洞",
+    "https://mp.weixin.qq.com/s/_OwOY4GAxTtR8x3zL5tPeA": "Sub2api 存在支付回调计费漏洞 (中转站长注意)"
 }
