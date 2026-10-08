@@ -21313,5 +21313,8 @@
     "https://mp.weixin.qq.com/s/tJmmwXcjsz3MCKGVbXB2CA": "【漏洞通告】leapp-repository存在权限提升漏洞(CVE-2026-75092)",
     "https://mp.weixin.qq.com/s/OKRLycAsRIPHogEpoYrJ6A": "SonicWall：注意SMA1000网关中的满分 SSRF 漏洞",
     "https://mp.weixin.qq.com/s/Q34tmxXv697P8M1uhb_9Kw": "【漏洞通告】cjose JWE全零密钥漏洞(CVE-2026-53939)",
-    "https://mp.weixin.qq.com/s/cqibiL0USe_EHcc7WkxYyA": "【漏洞通告】Atlassian多款产品任意文件读取漏洞（CVE-2026-21589)"
+    "https://mp.weixin.qq.com/s/cqibiL0USe_EHcc7WkxYyA": "【漏洞通告】Atlassian多款产品任意文件读取漏洞（CVE-2026-21589)",
+    "https://mp.weixin.qq.com/s/dN43midSAeaZtRLO9hWQtg": "【高危漏洞预警】Atlassian Data Center未认证任意文件读取漏洞CVE-2026-21589",
+    "https://mp.weixin.qq.com/s/NsEvJLds12dR901y03bAVg": "红帽 OpenShift 漏洞允许攻击者绕过 PGP 检查并推送恶意版本",
+    "https://mp.weixin.qq.com/s/LzMd-dkN9hPacFDZujpbKw": "大模型是怎么被攻破的？七类主流攻击手法与本地复现"
 }
