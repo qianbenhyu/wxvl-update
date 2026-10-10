@@ -21392,5 +21392,18 @@
     "https://mp.weixin.qq.com/s/3ApdijmWEhxuPd_c93VuMA": "【成功复现】WordPress Visual Composer Website Builder任意本地文件包含漏洞(CVE-2026-12227)",
     "https://mp.weixin.qq.com/s/p5lre146_K8xEkPABRcOdw": "爱奇艺安全应急响应中心漏洞处理流程与评分标准(2026)",
     "https://mp.weixin.qq.com/s/bSTgQCbH2qSuPToQ_aCYwQ": "新开普学工综合服务平台0day[已修复]",
-    "https://mp.weixin.qq.com/s/XZxo1jk7V4L9f1gsiSmU9Q": "Fish-src黑盒漏洞挖掘更新啦"
+    "https://mp.weixin.qq.com/s/XZxo1jk7V4L9f1gsiSmU9Q": "Fish-src黑盒漏洞挖掘更新啦",
+    "https://mp.weixin.qq.com/s/_I4nOHa1HC1B2n6-GHxhlw": "OnlyOffice 前台 RCE 代码分析：五年没修干净的路径穿越，撞上 v9 的热重载",
+    "https://mp.weixin.qq.com/s/9MBD7ISCeoD5ACDTpphoJw": "nginx-ui曝高危远程代码执行漏洞(CVE-2026-107806)，管理员认证后可执行任意命令",
+    "https://mp.weixin.qq.com/s/E3dpwB2jn8iSLwq7DLGnEA": "【安全圈】AnyDesk Linux版预认证远程代码执行漏洞PoC公开：未授权夺取Root",
+    "https://mp.weixin.qq.com/s/ufOKVgxSR0kkwPWw1zYJUg": "斗象获评首批“国家人工智能安全漏洞库优秀技术支撑单位”",
+    "https://mp.weixin.qq.com/s/KMeV1o6pKw5Uw8rGsmCplg": "WorkBuddy 挂机开启自动挖漏洞，日入几千成本就一个电费",
+    "https://mp.weixin.qq.com/s/E7v6_mybZDFSvRJmrLQ9JQ": "【高危漏洞预警】Citrix NetScaler SAML内存溢出漏洞CVE-2026-88779",
+    "https://mp.weixin.qq.com/s/Kz-OdYfRI-cCVeGwRRYhpQ": "DVWA 靶场实战：四级安全等级下的 Web 漏洞与防御演进",
+    "https://mp.weixin.qq.com/s/z_a1HA1EI3HtgF-dyd5U0A": "漏洞复现 | 金和OA nextselectplan.aspx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/HrBtuk2TONqKZxw9xjpZfA": "VulnHunter：从发现漏洞候选，到验证真实风险",
+    "https://mp.weixin.qq.com/s/CevIhXbSBpzmu2HGFr84kQ": "改个数字就能删别人数据？聊聊\"水平越权\"漏洞",
+    "https://mp.weixin.qq.com/s/3xZ0f-1cLSQfarNIFYnI0w": "Linux KVM∕arm64 漏洞允许攻击者逃离虚拟机并获得主机访问权限",
+    "https://mp.weixin.qq.com/s/6WztkNCmxPKKkriZVlj4qg": "【大洞速修】OnlyOffice 前台 RCE 漏洞！",
+    "https://mp.weixin.qq.com/s/qOmVijsjn7kLqyZg2kAGdg": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御"
 }
