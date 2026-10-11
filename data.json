@@ -21405,5 +21405,8 @@
     "https://mp.weixin.qq.com/s/CevIhXbSBpzmu2HGFr84kQ": "改个数字就能删别人数据？聊聊\"水平越权\"漏洞",
     "https://mp.weixin.qq.com/s/3xZ0f-1cLSQfarNIFYnI0w": "Linux KVM∕arm64 漏洞允许攻击者逃离虚拟机并获得主机访问权限",
     "https://mp.weixin.qq.com/s/6WztkNCmxPKKkriZVlj4qg": "【大洞速修】OnlyOffice 前台 RCE 漏洞！",
-    "https://mp.weixin.qq.com/s/qOmVijsjn7kLqyZg2kAGdg": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御"
+    "https://mp.weixin.qq.com/s/qOmVijsjn7kLqyZg2kAGdg": "Anthropic启动网络使命计划，聚焦漏洞修复助力安全防御",
+    "https://mp.weixin.qq.com/s/EYmjVeqgd3fsQGizbcIPtg": "(9.1分) CVE-2026-97670：Avada表单未授权调用任意Hook，可永久删站内容",
+    "https://mp.weixin.qq.com/s/U5QocHhwnm_cLvwwalJiIA": "【热点安全风险】10月11日｜电力工控平台曝未认证远程代码执行漏洞，攻击者可直取电网监测系统（CVE-2026-100730）",
+    "https://mp.weixin.qq.com/s/KYlCKzU36llnmZsY5UaU8w": "微软发布紧急 Exchange Server 更新以修复 CVE-2026-96940"
 }
