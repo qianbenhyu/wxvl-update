@@ -21430,5 +21430,8 @@
     "https://mp.weixin.qq.com/s/-Z9kxlNP6fyiIbPu7R3NMQ": "Anthropic紧急断网，Claude利用注入漏洞越界入侵真实网站",
     "https://mp.weixin.qq.com/s/c_f1XVcDeNXNyNgztkR_UA": "聚恒中台sendvalidatecode接口存在SQL注入  附POC",
     "https://mp.weixin.qq.com/s/tmJOJYPh4E2Tr8TdDJn8pA": "Telegram桌面版惊现IPC注入漏洞，点击链接即可被完全劫持账户",
-    "https://mp.weixin.qq.com/s/x6MFuNmAGqpBNXBCs0vrqw": "美国 (CISA) 警告：Zyxel GS1900 交换机漏洞已被积极用于攻击"
+    "https://mp.weixin.qq.com/s/x6MFuNmAGqpBNXBCs0vrqw": "美国 (CISA) 警告：Zyxel GS1900 交换机漏洞已被积极用于攻击",
+    "https://mp.weixin.qq.com/s/Y62H54NR7HZQp15SF3hvEg": "面向开源生态的 AI 漏洞发现服务：Anthropic OSS Scanner 技术架构、数据效果与行业影响深度剖析",
+    "https://mp.weixin.qq.com/s/ipwnxXpXr0Q_To8-qDa6Tg": "SRC与红队宏观信息收集思路，大规模资产梳理、POC 筛选、批量扫描脚本内网横向与真实攻防案例",
+    "https://mp.weixin.qq.com/s/blHewPNdHeK393-QT693Mw": "看了一下团队里新人挖洞过程，发现了一些问题，看看你是不是每次也这样挖不到高危漏洞的？？"
 }
