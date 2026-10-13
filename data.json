@@ -21476,5 +21476,11 @@
     "https://mp.weixin.qq.com/s/4IWVKt-4Cw-JmXISIezsJQ": "CNVD漏洞周报2026年第39、40期",
     "https://mp.weixin.qq.com/s/KLTabsyKBHVfbJxbEzeoRg": "REA逆向一切！渗透逆向新利器、MCP 驱动全栈逆向方案，解析原生二进制、EXE、APK，高效挖掘程序底层漏洞",
     "https://mp.weixin.qq.com/s/JiNa382sS_91DJ-Sy04i5A": "OSCP百日备考14｜Web漏洞利用入门：XSS、CSRF、命令注入，从弹框到拿Shell的完整路径",
-    "https://mp.weixin.qq.com/s/A32meosc9G-yGS4vIVjeMQ": "漏洞扫描做完了：顺着一条“高危”往下查，验收才刚开始"
+    "https://mp.weixin.qq.com/s/A32meosc9G-yGS4vIVjeMQ": "漏洞扫描做完了：顺着一条“高危”往下查，验收才刚开始",
+    "https://mp.weixin.qq.com/s/Lr-v9zBJqmMPZoES6epLwQ": "漏洞预警 | Telegram Desktop IPC记录注入漏洞",
+    "https://mp.weixin.qq.com/s/IeNckCVu-Dgtj2C4jYyzqg": "LMCache 严重远程代码执行漏洞仍未修复，公开的 PoC 漏洞利用程序已发布",
+    "https://mp.weixin.qq.com/s/DPdme7WEibuFwEglRtJG4A": "漏洞预警 | PostgreSQL符号链接跟随漏洞",
+    "https://mp.weixin.qq.com/s/uddPSvCaNinql5Z7tcONjA": "Nacos 综合漏洞利用工具（重构版）",
+    "https://mp.weixin.qq.com/s/m9UJaNZ2yT0Sr7qVlvu5DQ": "赛博安全狗：pH7Builder 旧版本存在硬编码 API 密钥绕过漏洞 (10.12)",
+    "https://mp.weixin.qq.com/s/Mko0iLQgm-BZqQ-YCstoWQ": "GraphQL 漏洞 Part-2：深度嵌套 DoS、IDOR 越权与错误消息泄漏实战"
 }
