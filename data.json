@@ -22028,5 +22028,11 @@
     "https://mp.weixin.qq.com/s/z-UO4ubME1XWr56hJus0Jw": "PHP 远程代码执行漏洞(CVE-2026-109618、CVE-2026-109619)",
     "https://mp.weixin.qq.com/s/3Wdos3XfHaV-sliXyMxWSg": "PHP两项9.2分严重漏洞引发全球性安全警报",
     "https://mp.weixin.qq.com/s/HzyiWz4Cp5Cg0wMfN5ZsCw": "CNCERT：关于PHP存在远程代码执行漏洞的安全公告",
-    "https://mp.weixin.qq.com/s/E4wQF_42BUZ8ZZHBQtznWA": "PHP 高危漏洞已修补"
+    "https://mp.weixin.qq.com/s/E4wQF_42BUZ8ZZHBQtznWA": "PHP 高危漏洞已修补",
+    "https://mp.weixin.qq.com/s/QSRX4PUyoYlEgSziSxt21w": "工具推荐 | 470+漏洞一键检测！专为国内主流OA打造的漏洞检测利器",
+    "https://mp.weixin.qq.com/s/kBrtZrQzq_EpF8DvnivokA": "讲解一下这次PHP核弹级别漏洞的原理",
+    "https://mp.weixin.qq.com/s/BpI-ShQijA4frZV7b0CsiQ": "讲解一下这次PHP核弹级别漏洞的原理",
+    "https://mp.weixin.qq.com/s/T9WNT1BMJNBoGRcS6kjOUA": "【漏洞复现】PHP Core 远程代码执行漏洞（CVE-2026-109618∕109619）",
+    "https://mp.weixin.qq.com/s/NgcArHRCC2XMVfnW3kEgGQ": "PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布",
+    "https://mp.weixin.qq.com/s/PoM1Eb_Bzati3VxmJJMSJQ": "PHP2Shell 紧急预警：两枚 9.2 分 RCE 藏在 PHP 内核，补丁已发布"
 }
