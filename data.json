@@ -22098,5 +22098,11 @@
     "https://mp.weixin.qq.com/s/iHSmgI7t6GsMsuF3t6DBUw": "【在野利用】PHP Core 远程代码执行漏洞（CVE-2026-109618∕109619）",
     "https://mp.weixin.qq.com/s/aVhCqnNsBHdR6w8IkX7aAQ": "【漏洞预警】flyimg 1.12.2 的两个RCE",
     "https://mp.weixin.qq.com/s/-FYaOTj_pwDQHPfu50o7sg": "信息安全漏洞周报（2026年第42期）",
-    "https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ": "Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481"
+    "https://mp.weixin.qq.com/s/xPnoLobopTonIb6RMYUEhQ": "Node.js 双高危漏洞预警：CVE-2026-105482｜CVE-2026-105481",
+    "https://mp.weixin.qq.com/s/mzFI1dKVFjvTSnd0obipVw": "捕获 PHP2Shell 攻击载荷：当漏洞利用开始“下载执行”",
+    "https://mp.weixin.qq.com/s/DHLETSykUJUwBYMBqEF9Ww": "SonicWall SMA1000 严重性最高的漏洞现已被用于不法攻击",
+    "https://mp.weixin.qq.com/s/hY5jhtxkFaIDteGSQW6ntw": "PHP2Shell：一个漏洞，让全球近七成网站紧张了三天",
+    "https://mp.weixin.qq.com/s/vrfmeC_EOs2rg_o1OwtGYg": "PHP又爆未修复 RCE 漏洞？别慌！没那么严重",
+    "https://mp.weixin.qq.com/s/IxyvQHSh55aY94TjaOhK4A": "PHP中的关键RCE漏洞(CVE-2026-109618, CVE-2026-109619)",
+    "https://mp.weixin.qq.com/s/WXXzCKXOfekha7Gel422YQ": "【风险提示】天融信关于Node.js Brotli解码器远程代码执行漏洞(CVE-2026-111497)的风险提示"
 }
