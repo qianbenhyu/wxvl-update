@@ -22134,5 +22134,9 @@
     "https://mp.weixin.qq.com/s/vqP8hKHpfVY-o-FaJPKs1g": "【已复现】Node.js Brotli 解码器远程代码执行漏洞(CVE-2026-111497)安全风险通告",
     "https://mp.weixin.qq.com/s/VUDNJ56kdsivJQDi3qjiNg": "php2shell漏洞全解析--带来的思考",
     "https://mp.weixin.qq.com/s/WlJhzr8gILN1bFhBGK630Q": "【安全圈】Ruby正则引擎爆底层缺陷！4个GitLab满分RCE连环穿",
-    "https://mp.weixin.qq.com/s/tBpoFfNle2AVhaT58Adk5Q": "漫谈AOSP蓝牙漏洞挖掘技术"
+    "https://mp.weixin.qq.com/s/tBpoFfNle2AVhaT58Adk5Q": "漫谈AOSP蓝牙漏洞挖掘技术",
+    "https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ": "2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链",
+    "https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q": "用缓冲区溢出漏洞把 3090 变成 A6000",
+    "https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg": "金叶物联网大数据管理平台download接口存在任意文件读取漏洞  附POC",
+    "https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA": "某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！"
 }
