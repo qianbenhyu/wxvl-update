@@ -22138,5 +22138,6 @@
     "https://mp.weixin.qq.com/s/F8K7rRt9BVIhbkxN0rzEeQ": "2026 PHP基础安全全景：从语法糖到RCE，每一个特性都是一条攻击链",
     "https://mp.weixin.qq.com/s/wkiF7Mu9nsZUYztqKVRm3Q": "用缓冲区溢出漏洞把 3090 变成 A6000",
     "https://mp.weixin.qq.com/s/cOFLScD2vSP-VndJRCHFhg": "金叶物联网大数据管理平台download接口存在任意文件读取漏洞  附POC",
-    "https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA": "某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！"
+    "https://mp.weixin.qq.com/s/_5i_hSI6AjvgJfeBgGN2SA": "某TSRC大佬付费价值1000元的POC漏洞知识库，免费梭哈！",
+    "https://mp.weixin.qq.com/s/Yw_E80BofrqIuE2ddRzOwg": "从 403 到 RCE 风险：PHP2Shell 漏洞全面解析与 PHP2ShellPOC2026 3.0 实战"
 }
