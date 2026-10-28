@@ -22192,5 +22192,14 @@
     "https://mp.weixin.qq.com/s/ojpm9Cg1zXHS_tblrQFFNg": "CVE-2026-112611∕112610：CoreGraphics PDF 越界写入漏洞 POC",
     "https://mp.weixin.qq.com/s/xfdxf6QPz01Jlv19EjCbcg": "宾夕法尼亚大学 | IRIS 基于大语言模型辅助的安全漏洞静态分析",
     "https://mp.weixin.qq.com/s/tP9ae34Fy1V-2GI3GsJZzA": "漏洞复现 | 泛微E-cology9 doc 存在SQL注入漏洞",
-    "https://mp.weixin.qq.com/s/6cBLakqMwxbUDXsA1lY42A": "船舶和港口也有漏洞库了！海事网络安全，不能再靠“事后补洞”"
+    "https://mp.weixin.qq.com/s/6cBLakqMwxbUDXsA1lY42A": "船舶和港口也有漏洞库了！海事网络安全，不能再靠“事后补洞”",
+    "https://mp.weixin.qq.com/s/ELYhW9V9qGXn3uS_iig_MQ": "PHP2SHELL漏洞事件启示：攻击来了，补丁还没打，AI蜜罐守零日窗口期",
+    "https://mp.weixin.qq.com/s/OYXwgVBflAZdWe2LBnwhqA": "SLUB 的丰收季：从 io_uring 漏洞到基于 sheaf 的全新利用技术",
+    "https://mp.weixin.qq.com/s/iNeFwwFl62ZOX7NAER87uA": "一条命令跑完端口扫描到漏洞验证：vscan 把六段工具链压进了一个二进制文件",
+    "https://mp.weixin.qq.com/s/m85wWa41p6FemkG3EljhNg": "Veeam 修复企业备份和监控软件中的多个严重漏洞",
+    "https://mp.weixin.qq.com/s/JygNGAA7f2DT83aWvPSihA": "PoC 满天飞的十月：PHP2Shell、NetScaler、Atlassian……",
+    "https://mp.weixin.qq.com/s/CoBsWiJfzEtRaE5lEdGvRA": "信息安全漏洞周报（2026年第42期）",
+    "https://mp.weixin.qq.com/s/PtM9By0rH88jPWzWuvl-2Q": "【已复现】漏洞通告 | Linux Kernel POSIX CPU timer释放后重用漏洞(CVE-2026-98260)",
+    "https://mp.weixin.qq.com/s/caROKKoNN5jVWpqXLA2vbA": "每日安全预警 ｜ MySQL 等 数据库漏洞风险通报（2026-10-28）",
+    "https://mp.weixin.qq.com/s/_pfLS7Wd5uP8SDaHF5GH2A": "大蚂蚁即时通信系统 upload_file.html 任意文件上传漏洞"
 }
