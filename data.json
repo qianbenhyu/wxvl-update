@@ -22215,5 +22215,12 @@
     "https://mp.weixin.qq.com/s/nAPGoVFpZr-qEj66iwGCUA": "【高危漏洞预警】Apache Tomcat FORM认证授权绕过高危漏洞CVE-2026-6852",
     "https://mp.weixin.qq.com/s/PBoZgu5yNc6b6I6Gj2p--g": "Brotli 漏洞暴露严重，HTTP2Shell 漏洞触发紧急补丁",
     "https://mp.weixin.qq.com/s/vL4E2vORVjmu67KzArRbnw": "JavaSecLab：别再搭那些“一键弹窗”的靶场了，这个平台逼你从源码里理解漏洞",
-    "https://mp.weixin.qq.com/s/z2sHF0nQibk4sOa0u2Xlmw": "Ruoyi框架漏洞复现总结"
+    "https://mp.weixin.qq.com/s/z2sHF0nQibk4sOa0u2Xlmw": "Ruoyi框架漏洞复现总结",
+    "https://mp.weixin.qq.com/s/_-twzvKWIxof9w2OREfzSQ": "漏洞预警 | Nodejs Brotli远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/-O6N1h21hbujaO0AWBuBSg": "补丁地狱：PaperCut 三次修补三次被绕过的漏洞挖掘全记录",
+    "https://mp.weixin.qq.com/s/OPz-bQweI3sW72WShve5Hw": "【热点安全风险】10月29日｜Adobe Commerce 上传缺陷遭在野利用，攻击者接管账号（CVE-2026-48356）",
+    "https://mp.weixin.qq.com/s/LLqDDPxDqy_cZvhVE9AJqA": "老设备也不放过！苹果紧急修复高危漏洞，带你硬核拆解越界写入（OOB Write）",
+    "https://mp.weixin.qq.com/s/iNIktNV4fKMGMq_wfcuMYw": "写给刚入行、被\"AI挖洞\"刷屏却始终挖不到第一个漏洞的你！一开始我也一股脑的烧钱充币……",
+    "https://mp.weixin.qq.com/s/1w8z1U6wWKLDqGP0aZGmsQ": "不安全的邻居：漏洞链如何绕过云基础设施隔离",
+    "https://mp.weixin.qq.com/s/a3v9PTrnT3dvESEAqahn7Q": "漏洞预警 | PHP代码执行漏洞"
 }
