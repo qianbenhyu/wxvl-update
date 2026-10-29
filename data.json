@@ -22249,5 +22249,7 @@
     "https://mp.weixin.qq.com/s/witrB9v5JwgGSmII_rXegg": "漏洞复现｜TheGrid admin-ajax存在代码执行漏洞(CVE-2026-94169)",
     "https://mp.weixin.qq.com/s/gnYo_gy8sa1SF1ujwwnKSQ": "美国国土安全部人员数据遭窃取，CBP 与 ICE 大量特工信息泄露；CNNVD周报：新增3806个安全漏洞，PHP高危漏洞可导致远程代码执行| 牛览",
     "https://mp.weixin.qq.com/s/0ihcosE6rpiEQc9RkH53GQ": "不止 Node.js！Brotli RCE（CVE-2026-111497）影响范围说明",
-    "https://mp.weixin.qq.com/s/y5kslMDW_60t1VJULGQhnw": "Telegram 贴纸也能成为攻击入口？研究人员称发现零点击漏洞，可串联实现 iOS 代码执行"
+    "https://mp.weixin.qq.com/s/y5kslMDW_60t1VJULGQhnw": "Telegram 贴纸也能成为攻击入口？研究人员称发现零点击漏洞，可串联实现 iOS 代码执行",
+    "https://mp.weixin.qq.com/s/UqwwwU4AnMH0psHx902Z9Q": "【高危漏洞预警】GitLab未认证远程代码执行漏洞CVE-2026-110264",
+    "https://mp.weixin.qq.com/s/2Vw9iS3d5Paxj669t_Yekg": "单模型“全能”是统计幻觉：Mythos标记6202个漏洞只修了75个，而MDASH用100个Agent做到了单模型做不到的事"
 }
