@@ -22303,5 +22303,7 @@
     "https://mp.weixin.qq.com/s/WkC1eazb0aXFt74uBDwPUg": "黑客利用思科SD-WAN严重0Day漏洞，部署KeyDrift窃取加密密钥",
     "https://mp.weixin.qq.com/s/SV-G7XWZkZfb7q9WUk9uoQ": "EDK II曝16年高危漏洞，攻击者可在Secure Boot前执行代码",
     "https://mp.weixin.qq.com/s/3ly1igZ3R8VTISbZUeRs_Q": "Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限",
-    "https://mp.weixin.qq.com/s/CzUF4w7T4CbA8-xQDEi2bQ": "【高危漏洞预警】Linux内核TCP子系统竞争条件Use-After-Free漏洞CVE-2026-98432"
+    "https://mp.weixin.qq.com/s/CzUF4w7T4CbA8-xQDEi2bQ": "【高危漏洞预警】Linux内核TCP子系统竞争条件Use-After-Free漏洞CVE-2026-98432",
+    "https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q": "文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始",
+    "https://mp.weixin.qq.com/s/B6O6at49gQkZuOwk6hLw0A": "2026最新 Pikachu 漏洞练习平台通关教程"
 }
