@@ -22310,5 +22310,11 @@
     "https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA": "【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘",
     "https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg": "安全运营的底层逻辑：漏洞、情报与数据",
     "https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA": "Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版",
-    "https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw": "php2shell-scanner：拿到新工具后，怎样在一台 PHP 上分清“真漏洞”和“被探针打崩”"
+    "https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw": "php2shell-scanner：拿到新工具后，怎样在一台 PHP 上分清“真漏洞”和“被探针打崩”",
+    "https://mp.weixin.qq.com/s/XMarcaff7YB9ykZx-TTDqA": "pypdf 一个 PDF 吃光内存，CVE-2026-119204",
+    "https://mp.weixin.qq.com/s/Y6fVB3M-HHmbwnRxImOL-Q": "赛博安全狗：node-forge修复AES-GCM认证绕过漏洞CVE-2026-119186 (10.31)",
+    "https://mp.weixin.qq.com/s/9Fq5sQ8xMD9yhF39lzlhRQ": "漏洞复现 | 智慧综合管理平台 DDiscountDevices.ashx 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/uPXrggPBXFNCpm8bGpHMng": "某企业SRC的抽奖操控漏洞",
+    "https://mp.weixin.qq.com/s/RYqpoGQ4dO-MSr1Gsy3DUw": "第114篇 AI全栈 · 逻辑漏洞背后隐藏的刷票总结",
+    "https://mp.weixin.qq.com/s/qf6YQCxjgV7fxxG0m_VqRA": "500+ 漏洞的环境搭建、POC 与原理全塞进一个开源仓库：这个漏洞文库把复现周期从几天压缩到几分钟"
 }
