@@ -22305,5 +22305,10 @@
     "https://mp.weixin.qq.com/s/3ly1igZ3R8VTISbZUeRs_Q": "Claude研究模型生成Linux内核漏洞利用链，实验环境可远程获取Root权限",
     "https://mp.weixin.qq.com/s/CzUF4w7T4CbA8-xQDEi2bQ": "【高危漏洞预警】Linux内核TCP子系统竞争条件Use-After-Free漏洞CVE-2026-98432",
     "https://mp.weixin.qq.com/s/j1VHzzjVX7e2EN9kxY4X-Q": "文件上传漏洞的真相：你上传成功的那一刻，真正的攻防才刚刚开始",
-    "https://mp.weixin.qq.com/s/B6O6at49gQkZuOwk6hLw0A": "2026最新 Pikachu 漏洞练习平台通关教程"
+    "https://mp.weixin.qq.com/s/B6O6at49gQkZuOwk6hLw0A": "2026最新 Pikachu 漏洞练习平台通关教程",
+    "https://mp.weixin.qq.com/s/DDPXJ6avqVZMNWVtbEQr9w": "【热点安全风险】10月31日｜Linux 内核 9.8 分缺陷，未认证攻击者可越界写内存（CVE-2026-98432）",
+    "https://mp.weixin.qq.com/s/7P2hwIt_8B-W2xhByMU6lA": "【提高挖洞效率】Burpsuite杂包强过滤src漏洞挖掘",
+    "https://mp.weixin.qq.com/s/9xDNlRNbX_ZLNbtka09Shg": "安全运营的底层逻辑：漏洞、情报与数据",
+    "https://mp.weixin.qq.com/s/aDOF8Tx1KqWdm6f2nqdKLA": "Linux内核TCP漏洞，CVSS评分9.8，影响Ubuntu、Red Hat及其他发行版",
+    "https://mp.weixin.qq.com/s/f8M3jhR0krt9y2-4XJZ4qw": "php2shell-scanner：拿到新工具后，怎样在一台 PHP 上分清“真漏洞”和“被探针打崩”"
 }
