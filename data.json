@@ -22345,5 +22345,13 @@
     "https://mp.weixin.qq.com/s/RN7HKRKZ8Sy_6F9D5EW04w": "TeamViewer 高危漏洞：被你连上的那台机器，反手拿下你的电脑",
     "https://mp.weixin.qq.com/s/IkuzAt6qiAwnKguirn_dlA": "WordPress 请更新7.1.4，已经有多漏洞",
     "https://mp.weixin.qq.com/s/GZ5gWYRcbSzZlOS_4oM7sQ": "WAF 拦截 + Java 11 强防御？Log4j2 绝境下的 Bypass 与 RCE",
-    "https://mp.weixin.qq.com/s/wP9N0AP5BeE5Q4e4tL-zMQ": "赛博安全狗：锐捷多款交换机固件升级接口缓冲区溢出漏洞CVE-2026-120241可远程利用 (11.01)"
+    "https://mp.weixin.qq.com/s/wP9N0AP5BeE5Q4e4tL-zMQ": "赛博安全狗：锐捷多款交换机固件升级接口缓冲区溢出漏洞CVE-2026-120241可远程利用 (11.01)",
+    "https://mp.weixin.qq.com/s/WYuCemT8VrsVmlrtwmeqAQ": "【安全圈】黑客利用 Cisco SD-WAN 漏洞部署定制的 KeyDrift 恶意软件",
+    "https://mp.weixin.qq.com/s/xY7k3j9k9K5HSxt9NeBLzQ": "AI赋能漏洞挖掘案例分享1-某系统从sql到登录绕过再到后台getshell",
+    "https://mp.weixin.qq.com/s/3ehE5_CoR0g94XHyubhQ7g": "Adobe Commerce PolyShell 攻击导致数百家商店数据泄露，爆出了利用 Brotli 漏洞的事件",
+    "https://mp.weixin.qq.com/s/oL0uh5iBK_4lht5pZXB6JA": "AI 智能体漏洞挖掘：让 Agent 跑通一个 SQLi 到 RCE 的复盘",
+    "https://mp.weixin.qq.com/s/T4xPgrMzdH5NKGO6SfzbGg": "固件盲区：16年漏洞绕过安全启动 CVE-2026-97631",
+    "https://mp.weixin.qq.com/s/AJL1jo4Vu4_efBCy2nF5EQ": "【安全圈】24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
+    "https://mp.weixin.qq.com/s/PEWjFh9smIJY9TUr7D1XKw": "某WordPress付费插件严重漏洞在野攻击分析以及漏洞复现",
+    "https://mp.weixin.qq.com/s/ya9mS0NgRFZeToRUaxwvyw": "11月1日高危漏洞汇总：6 个在野利用、32 个紧急"
 }
