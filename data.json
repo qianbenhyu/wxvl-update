@@ -22353,5 +22353,12 @@
     "https://mp.weixin.qq.com/s/T4xPgrMzdH5NKGO6SfzbGg": "固件盲区：16年漏洞绕过安全启动 CVE-2026-97631",
     "https://mp.weixin.qq.com/s/AJL1jo4Vu4_efBCy2nF5EQ": "【安全圈】24小时内超6万次攻击针对WordPress RCE漏洞，更新过程无需登录就可以利用",
     "https://mp.weixin.qq.com/s/PEWjFh9smIJY9TUr7D1XKw": "某WordPress付费插件严重漏洞在野攻击分析以及漏洞复现",
-    "https://mp.weixin.qq.com/s/ya9mS0NgRFZeToRUaxwvyw": "11月1日高危漏洞汇总：6 个在野利用、32 个紧急"
+    "https://mp.weixin.qq.com/s/ya9mS0NgRFZeToRUaxwvyw": "11月1日高危漏洞汇总：6 个在野利用、32 个紧急",
+    "https://mp.weixin.qq.com/s/vhpFnLJcBZ_RyAMIddMmxw": "潜伏16年的UEFI漏洞：开机那几秒，你的所有防线都还没上线",
+    "https://mp.weixin.qq.com/s/j7KNXV7JzsxJ_o9TosaqYQ": "漏洞预警 | Magento∕Adobe Commerce模板注入漏洞",
+    "https://mp.weixin.qq.com/s/WPX8f8SANuQoiTh330A_jQ": "PHP2Shell： 这次不是 WordPress 插件，RCE 藏在 PHP 本身",
+    "https://mp.weixin.qq.com/s/5W0Al4chx1d3zNEURKfJDw": "Apache Camel漏洞允许远程代码执行、绕过身份验证和数据窃取",
+    "https://mp.weixin.qq.com/s/1yokUOK_zOWyUpuS4Sw5yg": "漏洞预警 | Linux kernel POSIX释放后使用漏洞",
+    "https://mp.weixin.qq.com/s/6tByGe3dRVWYWba9c68HDg": "微信小程序漏洞挖掘详解｜抓包、逆向、反编译与实战技巧，SRC 挖掘可直接参考",
+    "https://mp.weixin.qq.com/s/drDnYOm3BnXTIpm9Ei93Qw": "从提权漏洞到自动化脚本翻车，细扒 Keystone 被黑事件背后的技术细节"
 }
