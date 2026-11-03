@@ -22401,5 +22401,11 @@
     "https://mp.weixin.qq.com/s/il6i6LApqQDTdltIwsYXpA": "SDC2026议题回顾 | 从漏洞检测到利用：知识驱动的 RISC-V 硬件安全分析技术",
     "https://mp.weixin.qq.com/s/oxrWRkTpOO6tZimTUm9l7w": "CVE-2026-98432 深度分析：Linux 内核 IPv4 TCP 竞态 Use-After-Free 漏洞全景解析",
     "https://mp.weixin.qq.com/s/SlfOJ8ytYyQvZUaGWIfllw": "AI 挖出超 4 万个高危漏洞，两项成果入选国际顶会",
-    "https://mp.weixin.qq.com/s/XHEFP3JL3--rB1qFM8_Ixw": "蒲公英X5 Pro路由器路径穿越root RCE深度分析（CVE-2026-120225）（附PoC）"
+    "https://mp.weixin.qq.com/s/XHEFP3JL3--rB1qFM8_Ixw": "蒲公英X5 Pro路由器路径穿越root RCE深度分析（CVE-2026-120225）（附PoC）",
+    "https://mp.weixin.qq.com/s/N1R2jf20kkX6Zv3lpjGfWQ": "记一次edu通杀漏洞的思路",
+    "https://mp.weixin.qq.com/s/3352hMObW5pcCDNoIVzYjA": "Linux 爆出 CVSS 9.8 高危漏洞！CVE-2026-98432 可导致远程 Root 权限，赶紧检查你的服务器",
+    "https://mp.weixin.qq.com/s/LW3a9bOnVKO4iW8WPxxw-Q": "Nginx文件上传绕过之文件扩展名解析漏洞",
+    "https://mp.weixin.qq.com/s/Kmfsw_YEyjZyQzlpjNCExQ": "CVE-2026-49881 漏洞复现",
+    "https://mp.weixin.qq.com/s/Jr79SQnXbxrL4tqXxnW4Mg": "【已复现】【远程rce】Linux Kernel IPv4 TCP 释放后重用漏洞（CVE-2026-98432）",
+    "https://mp.weixin.qq.com/s/26-eKKYA-8vo2QmegCei3w": "CNNVD | 重要安全漏洞通报（2026年第八期）"
 }
