@@ -22487,5 +22487,20 @@
     "https://mp.weixin.qq.com/s/1FR4uZzdw0mDiTGp0RnA0w": "币安63亿被盗、路由器老漏洞、PHP补丁被抢跑……这一周发生了什么？",
     "https://mp.weixin.qq.com/s/5ZLIZCpdhlZjbVeR38XEFA": "漏洞预警 | ShowDoc代码注入漏洞",
     "https://mp.weixin.qq.com/s/bleXx84z4l-EL-Q6gXV94A": "【在野利用】Oracle E-Business Suite TCF 未认证 SQL 注入（CVE-2026-101767）",
-    "https://mp.weixin.qq.com/s/h_wJTiCug-u3tb6s6SHc8A": "「关键漏洞目录」新增「Apple多款产品WebKit组件安全绕过漏洞」等2个漏洞"
+    "https://mp.weixin.qq.com/s/h_wJTiCug-u3tb6s6SHc8A": "「关键漏洞目录」新增「Apple多款产品WebKit组件安全绕过漏洞」等2个漏洞",
+    "https://mp.weixin.qq.com/s/6OD1diTo_RgE9Kfs0DyoEg": "【已复现】Synology DSM 身份认证绕过漏洞(CVE-2026-13639)安全风险通告",
+    "https://mp.weixin.qq.com/s/_gyyQgV-h93wFizo0u-6zg": "Barracuda 修复两个漏洞，可绕过授权和获取 root 权限",
+    "https://mp.weixin.qq.com/s/YY276xUMifRlbUNeo9S2Zg": "当AI让漏洞有了机器产能，补丁却还靠人海战术",
+    "https://mp.weixin.qq.com/s/Q9tG95L62Sd_cyjm8WFsQw": "【漏洞通告】WordPress Core远程代码执行漏洞（CVE-2026-119977)",
+    "https://mp.weixin.qq.com/s/lXbreLbDjEpIAkXkxj3ieg": "【已复现】CVE-2026-101767 Oracle EBS AppsTCFServer SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/GXTYLZlaDyVON5ZSPSXRkQ": "【漏洞通告】WordPress 更新条件竞争远程代码执行漏洞(CVE-2026-119977)",
+    "https://mp.weixin.qq.com/s/d8qh0ZwlNojTrNQMfaq7HA": "MindSearch-RCE复现：AI搜索一句提问直接拿shell （CVE-2026-105135）",
+    "https://mp.weixin.qq.com/s/K3Vu6gbUYg3tY87Y-i_56Q": "【复现】Linux内核IPv4 TCP释放后重用漏洞（CVE-2026-98432）",
+    "https://mp.weixin.qq.com/s/f9LAzWdphLJ5XGI0hy5DiA": "WordPress Core 竞争条件远程代码执行漏洞(CVE-2026-119977)",
+    "https://mp.weixin.qq.com/s/LOLcNZmZ9I4JjD4fShQIxg": "【安全圈】潜伏近三个月！DreamHost漏洞致大量主机凭据泄露",
+    "https://mp.weixin.qq.com/s/633gT8r7Wc22XhRvR_7N1w": "升级的几秒钟就是攻击窗口：WordPress Core 未认证 RCE 深度分析（CVE-2026-119977·附PoC）",
+    "https://mp.weixin.qq.com/s/HGjIVPSs0Mi_KB32kKtoog": "【漏洞预警】TeamViewer 整数溢出漏洞可导致远程代码执行（CVE-2026-111585）",
+    "https://mp.weixin.qq.com/s/DYgoaZmYLt3QY5ia5TzigQ": "SonicWall 提醒注意将不再修复的 GMS 软件漏洞",
+    "https://mp.weixin.qq.com/s/dolPp82OIF2eSmFcJPLIAA": "AI挖漏洞爆火，一篇带你了解用Work Buddy挖漏洞的全流程！",
+    "https://mp.weixin.qq.com/s/hwfpPgQkBZMmJMOJ65Vs2A": "AiPy 首获 Microsoft 官方致谢，Windows 内核 Win32k 漏洞获 CVE 编号"
 }
