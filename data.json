@@ -22538,5 +22538,7 @@
     "https://mp.weixin.qq.com/s/3_2RT7shjk8IC3vbZMkAnw": "ARTEX-FULL 衍生加强版｜多 Agent 自主渗透系统、新增 MCP 工具链、多 Worker 协同探索、漏洞复测自动化闭环",
     "https://mp.weixin.qq.com/s/ngYL44L65B5eCSz2QKoikg": "OpenSSH∕musl 密码认证绕过漏洞！",
     "https://mp.weixin.qq.com/s/I88QiLFt_yWIFHrH3XSyrA": "漏洞预警 | 泛微Ecology远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s/P-cVyO7RLdsIgkQigCKWTw": "用友时空KSOA save_folder.jsp SQL注入漏洞"
+    "https://mp.weixin.qq.com/s/P-cVyO7RLdsIgkQigCKWTw": "用友时空KSOA save_folder.jsp SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/fWPXNmRmLHzn3I4gOjhRpA": "【漏洞通告】OpenSSH musl 密码认证绕过漏洞",
+    "https://mp.weixin.qq.com/s/sUMLECu2KJ1e60em5ZBbbg": "CVE-2026-123158 · OpenSSH∕musl 密码认证绕过"
 }
