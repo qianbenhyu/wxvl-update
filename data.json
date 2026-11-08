@@ -22581,5 +22581,6 @@
     "https://mp.weixin.qq.com/s/v63HFMNS4Mkk25BLyixshQ": "海外SRC漏洞挖掘：\\绕过403 + 接口不校验token字段签发JWT",
     "https://mp.weixin.qq.com/s/RFPFZVHPqTWC9vA_1QG4ww": "给大模型装上固件审计员的骨架：一个 IoT 固件漏洞挖掘 Skill 的设计与实现",
     "https://mp.weixin.qq.com/s/WasczGJ5tKGzBu2paKNM2g": "SonicWall VPN 一个旧密码跳过 MFA CVE-2026-19868",
-    "https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ": "塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里"
+    "https://mp.weixin.qq.com/s/PH3bOzQhBS8TPMCGk2i2cQ": "塔塔车联网App四类漏洞披露：从手机端凭据到车辆服务，风险边界在哪里",
+    "https://mp.weixin.qq.com/s/nO6OFJ430zdQFTmzLmwQdw": "Veeam备份与复制系统存在严重漏洞，允许未经身份验证的攻击者绕过授权"
 }
