@@ -22628,5 +22628,6 @@
     "https://mp.weixin.qq.com/s/6FdFBvvAbQtbqN3oWTrenA": "高危漏洞：Claude Code “不再询问” 功能翻车，超千个 GitHub 仓库明文泄露密码、API 密钥",
     "https://mp.weixin.qq.com/s/jrN63vcLPDfaKXDDbbXuiw": "从“扫到漏洞”，到“证明安全”",
     "https://mp.weixin.qq.com/s/Q27-rwdOyUKEDafUCziayA": "超长密码反而能免密登录？OpenSSH + musl 组合漏洞，把 Alpine 容器的门焊开了 免密登录",
-    "https://mp.weixin.qq.com/s/xuLQPfaeEAQWHLXy6hJfXQ": "42 个 AI 开源项目、174 个漏洞：AI 渗透测试把开源世界\"体检\"了一遍"
+    "https://mp.weixin.qq.com/s/xuLQPfaeEAQWHLXy6hJfXQ": "42 个 AI 开源项目、174 个漏洞：AI 渗透测试把开源世界\"体检\"了一遍",
+    "https://mp.weixin.qq.com/s/l2lO-XL03jR22mjHKhTR0g": "300 个 a 就能登进你的服务器？CVE-2026-123158 拆解与排查实操"
 }
