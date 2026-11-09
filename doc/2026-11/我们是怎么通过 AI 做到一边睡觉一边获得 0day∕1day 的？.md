@@ -1,6 +1,6 @@
 #  我们是怎么通过 AI 做到一边睡觉一边获得 0day/1day 的？  
-原创 ChinaRan404
-                    ChinaRan404  知攻善防实验室   2026-11-09 01:16  
+ChinaRan404
+                    ChinaRan404  狐狸说安全   2026-11-09 02:44  
   
    
   
@@ -75,21 +75,4 @@ https://github.com/zgsfsec/Full-Chain-Sentinel-System
   
  希望大家多多帮忙 star🌟 转发，您的 star 是作者更新最大的动力。  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/a3etiafIAYXHsthiafFtQyeFFYzmU9Ep4avq7SFAcuNTovJL5zszYD3PPJJib2d5kMdoVCHeVF5ol5ug6rVRBeiaS3ibhje7E3GZ1YmuPhST6xjY/640?wx_fmt=gif&from=appmsg "")  
-  
-全链哨兵交流群  
-  
-![](https://mmbiz.qpic.cn/sz_mmbiz_gif/a3etiafIAYXF2LPkYS8X7K2hqcbDEz70mzA50PiapiaZrQk6ZZxianKWx3ogw1oOkRueTTtCRgebvicf58HqvXssWYej9lREicp0zzQqTDOsKTKjY/640?wx_fmt=gif&from=appmsg "")  
-  
-  
-加群条件  
-  
-1.Github 帮我们点一个 star  
-  
-2.扫描下方，加好友“打招呼”：发送“  
-全链哨兵  
-”   
-  
-![图片](https://mmbiz.qpic.cn/mmbiz_png/a3etiafIAYXGyGsfgt3voQOzS57ia5iacyIKBT3QkkQhCF7kh7ULOFjMGyv3hafcB0qVoloiclPhPPo9NtfRlR4w6fxoQMibvibzDIK6LHwY50hgc/640?wx_fmt=png&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=29 "")  
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/a3etiafIAYXGOqLicOy68hTTqx8jiarNk0aMOcE3RhXjF6EESIKKibKNMkWniaCc2SarhbLRfme4yVYVLiaeiaPic5OudzKsRzFKysk2fYicTj7iaicfDE/640?wx_fmt=jpeg&from=appmsg&watermark=1&wxfrom=5&wx_lazy=1&tp=webp#imgIndex=30 "")  
   
