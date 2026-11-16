@@ -22799,5 +22799,7 @@
     "https://mp.weixin.qq.com/s/XbeOBqLzmh7kBK90xL5YHQ": "11月14日漏洞：277条，未授权重装、反序列化与认证绕过",
     "https://mp.weixin.qq.com/s/Sl8hOtDVqj2zE7F_tV-zAw": "Nuclei：YAML 模板与自定义 POC 编写实战",
     "https://mp.weixin.qq.com/s/_tTtfh2TXRucxy5Su5OSgg": "错误信息泄露枚举值导致权限提升漏洞",
-    "https://mp.weixin.qq.com/s/Fv12MMwE_y4StkTyF3SRZg": "OpenAI放出安全大招：AI自己找漏洞、写补丁，但最后一步依然交给人"
+    "https://mp.weixin.qq.com/s/Fv12MMwE_y4StkTyF3SRZg": "OpenAI放出安全大招：AI自己找漏洞、写补丁，但最后一步依然交给人",
+    "https://mp.weixin.qq.com/s/wyfL3VMt316KaFiH-4lsUw": "OpenSSH sshd authorized_keys restrict关键字绕过漏洞复现(CVE-2026-73283)",
+    "https://mp.weixin.qq.com/s/H9xoBFBSZzmPXqbA038b5Q": "Windows CLFS提权PoC公开：CVE-2023-28252已修复三年，仍在野利用"
 }
