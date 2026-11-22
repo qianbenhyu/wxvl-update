@@ -22886,5 +22886,12 @@
     "https://mp.weixin.qq.com/s/4tGua90nL71-bvWOjbhYmg": "Oracle 2026 年 11 月更新修复 655 个漏洞，包括可导致接管的 CVE-2026-91569",
     "https://mp.weixin.qq.com/s/C3an1HBM-GL4kpOPdetsEg": "安全预警｜Java4Shell 高危漏洞披露，附开源检测工具及应急处置指南",
     "https://mp.weixin.qq.com/s/UGay1NgqMErwWztAbmu4Fg": "Oracle 今日将修补 11 个 Java 漏洞，以修复关键 OpenJDK RCE (CVE-2026-114938) 漏洞被曝光",
-    "https://mp.weixin.qq.com/s/PGyj8doM4ylCyxTbcvv2jw": "【新洞】突发Java4Shell漏洞，无需密码直接劫持服务器"
+    "https://mp.weixin.qq.com/s/PGyj8doM4ylCyxTbcvv2jw": "【新洞】突发Java4Shell漏洞，无需密码直接劫持服务器",
+    "https://mp.weixin.qq.com/s/X1k0diFbO_D0oAWmrEODmg": "漏洞复现 | 云时空社会化商业ERP系统 validateLoginName 存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s/ZqIZGDrDlX6oBQ4-KE8VVg": "nginx2root漏洞排查",
+    "https://mp.weixin.qq.com/s/QJlf0V4RLCLUhacmJZUhrg": "Apache Tomcat 曝出严重漏洞：远程攻击者可未经身份验证加入受信任服务器集群",
+    "https://mp.weixin.qq.com/s/97Dlff8--M9xJTLgSaz2-g": "【安全圈】黑客部署自主AI智能体：11分钟自挖0day攻陷服务器夺Root",
+    "https://mp.weixin.qq.com/s/Fq_teDp41s4gh4g0zGWyzg": "【安全圈】Linux KVM曝高危逃逸漏洞：虚机跨租户直读宿主机127GB内存",
+    "https://mp.weixin.qq.com/s/fqrK-7-pTbXLutaeXAd9Hw": "Java4Shell（CVE-2026-114938）漏洞安全响应指南",
+    "https://mp.weixin.qq.com/s/TjeR1kiAYCDfHzHNMxO-zQ": "快普M6 wsAutoComplete.asmx接口存在SQL注入漏洞  附POC"
 }
