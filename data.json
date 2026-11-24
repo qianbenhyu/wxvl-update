@@ -22949,5 +22949,6 @@
     "https://mp.weixin.qq.com/s/ObFxacTKk-AbPOCwHLojRw": "预警丨防范OpenJDK缓冲区溢出高危漏洞",
     "https://mp.weixin.qq.com/s/E4MI1jWTWyK6UjChQRWvqA": "某系统组合拳前台RCE-模板注入",
     "https://mp.weixin.qq.com/s/f0M3PnWMJLilu3POOSwJBw": "F5紧急修复多个严重的 BIG-IP RCE 漏洞",
-    "https://mp.weixin.qq.com/s/kVzdBHALBt3mOLfYyBWsKw": "OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及"
+    "https://mp.weixin.qq.com/s/kVzdBHALBt3mOLfYyBWsKw": "OpenAI GPT-6.2 Astra挖出多个0Day：权限绕过、远程代码执行全部涉及",
+    "https://mp.weixin.qq.com/s/6_hEEflYu2WkeWokA697-g": "VMware vCenter 身份验证绕过目录服务漏洞(CVE-2026-123890)，可完全控制受影响的系统,附利用poc"
 }
