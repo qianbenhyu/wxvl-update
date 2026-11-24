@@ -22974,5 +22974,19 @@
     "https://mp.weixin.qq.com/s/kRKuKxs_VAcRKUzIF1ICTQ": "基础安全产品系列 | 捷普漏洞扫描系统",
     "https://mp.weixin.qq.com/s/wRlLLYI7h1EGSDQ1eOdg9w": "【漏洞通告】Spring Data Elasticsearch SpEL表达式注入漏洞（CVE-2026-123886）",
     "https://mp.weixin.qq.com/s/DcE4zNCQ9LesmwXCOZc3bQ": "CNVD漏洞周报2026年第46期",
-    "https://mp.weixin.qq.com/s/e-fhr0KYLl0mSnCkYT63Ww": "思科Expressway漏洞遭在野利用，攻击者可获完整root权限"
+    "https://mp.weixin.qq.com/s/e-fhr0KYLl0mSnCkYT63Ww": "思科Expressway漏洞遭在野利用，攻击者可获完整root权限",
+    "https://mp.weixin.qq.com/s/5HuEQj3nB4dkduj0uP3u3w": "【附exp】geoserver 未授权RCE！五个cve组合拳！",
+    "https://mp.weixin.qq.com/s/pewsk4ysYzIS4ppz89BE8A": "SSH漏洞：一个257字节的密码如何绕过Alpine Linux上的OpenSSH身份验证",
+    "https://mp.weixin.qq.com/s/CdlrAdsnyqxDLsMs7fHz_A": "【高危漏洞预警】GeoServer未认证远程代码执行漏洞链（CVE-2026-129242 等 5 个 漏洞）",
+    "https://mp.weixin.qq.com/s/zLMFOazsQKhTgL06xYbT0A": "【已复现】GeoServer 认证前远程代码执行漏洞利用链",
+    "https://mp.weixin.qq.com/s/yzagzLrLlerbda6l2Q0VPA": "大洞速修！GeoServer RCE 漏洞！",
+    "https://mp.weixin.qq.com/s/pN9viibCUo5LW32uxB54gw": "cookie_secure缺失漏洞实验",
+    "https://mp.weixin.qq.com/s/8t8s8R-u2iDTS3UnoFLyIA": "【已复现】GeoServer 未认证远程代码执行漏洞（CVE-2026-129242 等 5 个 CVE）",
+    "https://mp.weixin.qq.com/s/kDYYAjXWBqk4m44bSgC6Mg": "Broadcom发布VMware安全更新 VMSA-2026-0011: 一次性修复23个漏洞，4个Critical漏洞需紧急处理",
+    "https://mp.weixin.qq.com/s/c3Jg0ZhMH2ceFFvorvf_Qg": "【速修】GeoServer 未授权远程代码执行漏洞(含POC)",
+    "https://mp.weixin.qq.com/s/cj8-eW4Z9m_fLJqxGMlHJA": "Fastjson 漏洞",
+    "https://mp.weixin.qq.com/s/oDAejSiqYcgDG1N4oC-osw": "6款WordPress插件藏后门，能远程写shell CVE-2026-135202",
+    "https://mp.weixin.qq.com/s/p5H7W3stxgKy7pLsNLwhgw": "【已复现】GeoServer未认证远程代码执行漏洞（CVE 链）安全风险通告",
+    "https://mp.weixin.qq.com/s/qVXepsjAOLjty6Q6J1mxYg": "已复现！GeoServer 前台远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s/LzAy5IJA-IlQs_PHylMb7w": "【已复现】CVE-2026-123903 VMware vCenter Server 389端口该未授权管理员创建漏洞"
 }
